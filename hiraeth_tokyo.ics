@@ -17,7 +17,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜横Fes-ヨコフェス-SOLO-＠中野坂上S.U.B
 DTSTART;TZID=Asia/Tokyo:20261020T171000
 DTEND;TZID=Asia/Tokyo:20261020T191000
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17937@hiraeth.tokyo
 DESCRIPTION:イベント: 横Fes-ヨコフェス-SOLO-＠中野坂上S.U.B
  \n種別: ライブ\n開場 16:55 / 開演 17:10（日本時間）。終
@@ -35,24 +35,27 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜絶対少女物語vol.3＠大塚FUTURE:
 DTSTART;TZID=Asia/Tokyo:20261020T152000
 DTEND;TZID=Asia/Tokyo:20261020T172000
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17778@hiraeth.tokyo
 DESCRIPTION:イベント: 絶対少女物語vol.3＠大塚FUTURE:\n種別:
   ライブ\n開場 15:00 / 開演 15:20（日本時間）。終了時刻
  は未発表のため仮で2時間。対バンイベントのため、HIRA
- ETH.Tokyoの出番時刻は未発表。\nチケット/詳細: https://idol
- watch.jp/event/141163\n出典: 公式サイト https://hiraeth.tokyo/event
- /2026-10-20/ / IDOL Watch（元情報TIGET）\n確度: 公式（時刻はI
- DOL Watch経由）
+ ETH.Tokyoの出番時刻は未発表。\nチケット: 絶対少女VIP 6\,
+ 000円 / 前方 3\,000円 / 一般 1\,500円 / 女性 500円（各ドリ
+ ンク別、予約のみ・当日払い）\nチケット/詳細: https://t
+ iget.net/events/527822\n注意: HIRAETH.Tokyoの出番は16:40-17:00（10/
+ 19に変更告知）。物販 17:10-18:00。\n出典: 公式サイト http
+ s://hiraeth.tokyo/event/2026-10-20/ / 公式X告知（10/19更新）\n確
+ 度: 公式＋チケットサイト
 LOCATION:大塚FUTURE:
-URL:https://idolwatch.jp/event/141163
+URL:https://tiget.net/events/527822
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜「JAPAN IDOL SUPER LIVE 2026」@新宿ReNY Come n
  ext編@新宿ReNY
 DTSTART;TZID=Asia/Tokyo:20261021T140000
 DTEND;TZID=Asia/Tokyo:20261021T160000
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17495@hiraeth.tokyo
 DESCRIPTION:イベント: 「JAPAN IDOL SUPER LIVE 2026」@新宿ReNY Come
   next編@新宿ReNY\n種別: ライブ\n開場 13:30 / 開演 14:00（日
@@ -73,7 +76,7 @@ SUMMARY:HIRAETH.Tokyo｜BUZZ REVOLUTION！〜推しメンをバズらせ
  たい！〜@duo MUSIC EXCHANGE
 DTSTART;TZID=Asia/Tokyo:20261022T131000
 DTEND;TZID=Asia/Tokyo:20261022T151000
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17497@hiraeth.tokyo
 DESCRIPTION:イベント: BUZZ REVOLUTION！〜推しメンをバズらせ
  たい！〜@duo MUSIC EXCHANGE\n種別: ライブ\n開場 12:50 / 開演 
@@ -87,24 +90,26 @@ LOCATION:duo MUSIC EXCHANGE（渋谷）
 URL:https://idolwatch.jp/event/142005
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜ライブ@池袋
-DTSTART;VALUE=DATE:20261024
-DTEND;VALUE=DATE:20261025
-DTSTAMP:20261018T224500Z
+SUMMARY:HIRAETH.Tokyo｜遊撃少女@池袋SOUNDPEACE
+DTSTART;TZID=Asia/Tokyo:20261024T182500
+DTEND;TZID=Asia/Tokyo:20261024T202500
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17499@hiraeth.tokyo
-DESCRIPTION:イベント: ライブ@池袋\n種別: ライブ\n時刻は
- 未発表のため終日予定で登録。\n出典: 公式サイト https:
- //hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e6%b1%a0%e8%a2%8b-6/\n
- 確度: 公式（詳細未発表の予定枠）
-LOCATION:池袋（会場名未発表）
-URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e6%b1%a0%e8%a2
- %8b-6/
+DESCRIPTION:イベント: 遊撃少女@池袋SOUNDPEACE\n種別: ライブ
+ \n開場 18:10 / 開演 18:25（日本時間）。終了時刻は未発表
+ のため仮で2時間。対バンイベントのため、HIRAETH.Tokyoの
+ 出番時刻は未発表。\nチケット: 予約 1\,900円 / 当日 +500
+ 円（ドリンク別）\nチケット/詳細: https://tiget.net/events/53
+ 1961\n出典: 公式サイト https://hiraeth.tokyo/event/2026-10-24/ / 
+ 公式X告知（10/19）\n確度: 公式＋チケットサイト
+LOCATION:池袋SOUNDPEACE
+URL:https://tiget.net/events/531961
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ＠恵比寿
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17783@hiraeth.tokyo
 DESCRIPTION:イベント: ライブ＠恵比寿\n種別: ライブ\n時刻
  は未発表のため終日予定で登録。\n出典: 公式サイト htt
@@ -118,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜HIRAETH.Tokyo定期ライブvol.40@新宿
 DTSTART;VALUE=DATE:20261025
 DTEND;VALUE=DATE:20261026
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17501@hiraeth.tokyo
 DESCRIPTION:イベント: HIRAETH.Tokyo定期ライブvol.40@新宿\n種
  別: ライブ\n時刻は未発表のため終日予定で登録。\n出
@@ -132,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜「SHIBUYA KAWAII SUPER LIVE」＠渋谷音楽堂
 DTSTART;TZID=Asia/Tokyo:20261027T152000
 DTEND;TZID=Asia/Tokyo:20261027T172000
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17785@hiraeth.tokyo
 DESCRIPTION:イベント: 「SHIBUYA KAWAII SUPER LIVE」＠渋谷音楽
  堂\n種別: ライブ\n開場 15:00 / 開演 15:20（日本時間）。
@@ -150,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜[路上ライブ] 路上ライブ予定
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17880@hiraeth.tokyo
 DESCRIPTION:イベント: 路上ライブ予定\n種別: 路上ライブ\n
  時刻は未発表のため終日予定で登録。\n出典: 公式サイ
@@ -165,7 +170,7 @@ SUMMARY:HIRAETH.Tokyo｜[撮影会・特典会] 【📸 新愛ニア&青
  葉咲來&海寧らむ お散歩&撮影会 開催のお知らせ】
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17920@hiraeth.tokyo
 DESCRIPTION:イベント: 【📸 新愛ニア&青葉咲來&海寧らむ 
  お散歩&撮影会 開催のお知らせ】\n種別: 撮影会・特典
@@ -185,7 +190,7 @@ SUMMARY:HIRAETH.Tokyo｜「FUTURE: SUPER LIVE 2026」18色のハロウィ
  ン☆ドリームライド編＠大塚FUTURE:
 DTSTART;TZID=Asia/Tokyo:20261030T145000
 DTEND;TZID=Asia/Tokyo:20261030T165000
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17787@hiraeth.tokyo
 DESCRIPTION:イベント: 「FUTURE: SUPER LIVE 2026」18色のハロウ
  ィン☆ドリームライド編＠大塚FUTURE:\n種別: ライブ\n開
@@ -202,7 +207,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ＠渋谷
 DTSTART;VALUE=DATE:20261031
 DTEND;VALUE=DATE:20261101
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17789@hiraeth.tokyo
 DESCRIPTION:イベント: ライブ＠渋谷\n種別: ライブ\n時刻は
  未発表のため終日予定で登録。\n出典: 公式サイト https:
@@ -216,7 +221,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜プリュトラハロウィン Vol.2@SHIBUYA DESEO
 DTSTART;TZID=Asia/Tokyo:20261031T152000
 DTEND;TZID=Asia/Tokyo:20261031T172000
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17503@hiraeth.tokyo
 DESCRIPTION:イベント: プリュトラハロウィン Vol.2@SHIBUYA DES
  EO\n種別: ライブ\n開場 15:00 / 開演 15:20（日本時間）。終
@@ -234,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ＠渋谷
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17882@hiraeth.tokyo
 DESCRIPTION:イベント: ライブ＠渋谷\n種別: ライブ\n時刻は
  未発表のため終日予定で登録。\n出典: 公式サイト https:
@@ -245,24 +250,28 @@ URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e6%b8
  %8b%e8%b0%b7-5/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜ライブ＠五反田
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-DTSTAMP:20261018T224500Z
+SUMMARY:HIRAETH.Tokyo｜無銭ぷろじぇくと!! vol.115＠GOTANDA G6
+DTSTART;TZID=Asia/Tokyo:20261103T095000
+DTEND;TZID=Asia/Tokyo:20261103T115000
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17791@hiraeth.tokyo
-DESCRIPTION:イベント: ライブ＠五反田\n種別: ライブ\n時刻
- は未発表のため終日予定で登録。\n出典: 公式サイト htt
- ps://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e4%ba%94%e5%
- 8f%8d%e7%94%b0-4/\n確度: 公式（詳細未発表の予定枠）
-LOCATION:五反田（会場名未発表）
-URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e4%ba
- %94%e5%8f%8d%e7%94%b0-4/
+DESCRIPTION:イベント: 無銭ぷろじぇくと!! vol.115＠GOTANDA G6
+ \n種別: ライブ\n開場 9:40 / 開演 9:50（日本時間）。終了
+ 時刻は未発表のため仮で2時間。対バンイベントのため
+ 、HIRAETH.Tokyoの出番時刻は未発表。\nチケット: 通常エリ
+ ア 0円 / 前方エリア 2\,500円 / 当日 各+1\,000円（各+2ドリ
+ ンク）。チケット発売 10/20 19:00〜\nチケット/詳細: https:
+ //paylove.org/events/1786\n出典: 公式サイト https://hiraeth.tokyo/e
+ vent/2026-11-03/ / 公式X告知（10/19）\n確度: 公式＋チケット
+ サイト
+LOCATION:GOTANDA G6
+URL:https://paylove.org/events/1786
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ@新宿
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17884@hiraeth.tokyo
 DESCRIPTION:イベント: ライブ@新宿\n種別: ライブ\n時刻は
  未発表のため終日予定で登録。\n出典: 公式サイト https:
@@ -276,7 +285,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ@渋谷
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17505@hiraeth.tokyo
 DESCRIPTION:イベント: ライブ@渋谷\n種別: ライブ\n時刻は
  未発表のため終日予定で登録。\n出典: 公式サイト https:
@@ -290,7 +299,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ@渋谷
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17886@hiraeth.tokyo
 DESCRIPTION:イベント: ライブ@渋谷\n種別: ライブ\n時刻は
  未発表のため終日予定で登録。\n出典: 公式サイト https:
@@ -304,7 +313,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜[撮影会・特典会] 撮影会予定
 DTSTART;VALUE=DATE:20261114
 DTEND;VALUE=DATE:20261115
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17888@hiraeth.tokyo
 DESCRIPTION:イベント: 撮影会予定\n種別: 撮影会・特典会\n
  時刻は未発表のため終日予定で登録。\n出典: 公式サイ
@@ -318,7 +327,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜HIRAETH.Tokyo定期ライブvol.41@新宿
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17507@hiraeth.tokyo
 DESCRIPTION:イベント: HIRAETH.Tokyo定期ライブvol.41@新宿\n種
  別: ライブ\n時刻は未発表のため終日予定で登録。\n出
@@ -332,7 +341,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ予定
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17890@hiraeth.tokyo
 DESCRIPTION:イベント: ライブ予定\n種別: ライブ\n時刻は未
  発表のため終日予定で登録。\n出典: 公式サイト https://h
@@ -346,7 +355,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ予定
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17892@hiraeth.tokyo
 DESCRIPTION:イベント: ライブ予定\n種別: ライブ\n時刻は未
  発表のため終日予定で登録。\n出典: 公式サイト https://h
@@ -360,7 +369,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ予定
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17894@hiraeth.tokyo
 DESCRIPTION:イベント: ライブ予定\n種別: ライブ\n時刻は未
  発表のため終日予定で登録。\n出典: 公式サイト https://h
@@ -374,7 +383,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ@中野坂上
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17896@hiraeth.tokyo
 DESCRIPTION:イベント: ライブ@中野坂上\n種別: ライブ\n時
  刻は未発表のため終日予定で登録。\n出典: 公式サイト 
@@ -388,7 +397,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ＠秋葉原
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17793@hiraeth.tokyo
 DESCRIPTION:イベント: ライブ＠秋葉原\n種別: ライブ\n時刻
  は未発表のため終日予定で登録。\n出典: 公式サイト htt
@@ -402,7 +411,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ@中野坂上
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17898@hiraeth.tokyo
 DESCRIPTION:イベント: ライブ@中野坂上\n種別: ライブ\n時
  刻は未発表のため終日予定で登録。\n出典: 公式サイト 
@@ -416,7 +425,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ@新宿
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17900@hiraeth.tokyo
 DESCRIPTION:イベント: ライブ@新宿\n種別: ライブ\n時刻は
  未発表のため終日予定で登録。\n出典: 公式サイト https:
@@ -431,7 +440,7 @@ SUMMARY:HIRAETH.Tokyo｜-HIRAETH.Tokyo- 青葉咲來 生誕祭『19さい
  、もっと♡もっと♡アイドル！』@中野坂上S.U.B
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17544@hiraeth.tokyo
 DESCRIPTION:イベント: -HIRAETH.Tokyo- 青葉咲來 生誕祭『19さ
  い、もっと♡もっと♡アイドル！』@中野坂上S.U.B\n種別
@@ -447,7 +456,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ＠新宿
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17795@hiraeth.tokyo
 DESCRIPTION:イベント: ライブ＠新宿\n種別: ライブ\n時刻は
  未発表のため終日予定で登録。\n出典: 公式サイト https:
@@ -461,7 +470,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ予定
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17902@hiraeth.tokyo
 DESCRIPTION:イベント: ライブ予定\n種別: ライブ\n時刻は未
  発表のため終日予定で登録。\n出典: 公式サイト https://h
@@ -475,7 +484,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ予定
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17904@hiraeth.tokyo
 DESCRIPTION:イベント: ライブ予定\n種別: ライブ\n時刻は未
  発表のため終日予定で登録。\n出典: 公式サイト https://h
@@ -489,7 +498,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ予定
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17906@hiraeth.tokyo
 DESCRIPTION:イベント: ライブ予定\n種別: ライブ\n時刻は未
  発表のため終日予定で登録。\n出典: 公式サイト https://h
@@ -503,7 +512,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ＠大塚
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261018T224500Z
+DTSTAMP:20261019T231000Z
 UID:hiraeth-17797@hiraeth.tokyo
 DESCRIPTION:イベント: ライブ＠大塚\n種別: ライブ\n時刻は
  未発表のため終日予定で登録。\n出典: 公式サイト https:
