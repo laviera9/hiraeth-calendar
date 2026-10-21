@@ -15,23 +15,21 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜BUZZ REVOLUTION！〜推しメンをバズらせ
- たい！〜@duo MUSIC EXCHANGE
+ たい！〜＠duo MUSIC EXCHANGE
 DTSTART;TZID=Asia/Tokyo:20261022T131000
-DTEND;TZID=Asia/Tokyo:20261022T151000
+DTEND;TZID=Asia/Tokyo:20261022T143500
 DTSTAMP:20261021T231000Z
 UID:hiraeth-17497@hiraeth.tokyo
-DESCRIPTION:イベント: BUZZ REVOLUTION！〜推しメンをバズらせ
- たい！〜@duo MUSIC EXCHANGE\n種別: ライブ\n開場 12:50 / 開演 
- 13:10（日本時間）。終了時刻は未発表のため仮で2時間
- 。対バンイベントのため、HIRAETH.Tokyoの出番時刻は未発
- 表。\nチケット: 前方5\,000円 / 一般2\,500円\nチケット/詳
- 細: https://idolwatch.jp/event/142005\n注意: 海寧らむはスケジ
- ュールの都合でLIVE・特典会をお休み（公式X 10/21告知）
- 。\n出典: 公式サイト https://hiraeth.tokyo/event/2026-10-22/ / IDO
- L Watch（元情報TicketDive）\n確度: 公式（時刻はIDOL Watch経
- 由）
+DESCRIPTION:開場12:50 / 開演13:10\nHIRAETH.Tokyo出番 13:10-13:30\n
+ 物販 13:35-14:35（Aブース）\n指名特典: 推しからのサイン
+ 入り集合デカチェキ + 私物なんでもサイン券 + 3ポイン
+ ト\n料金: 前方5\,000円 / 一般2\,500円 / 当日+500円（ドリン
+ ク別）\n予約: https://t-dv.com/buzz1022\n注意: 海寧らむはス
+ ケジュールの都合でLIVE・特典会をお休み（https://x.com/hi
+ raeth_tokyo/status/2112710466359452116）\n出典: https://x.com/hiraeth_t
+ okyo/status/2111404352359547304
 LOCATION:duo MUSIC EXCHANGE（渋谷）
-URL:https://idolwatch.jp/event/142005
+URL:https://t-dv.com/buzz1022
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜遊撃少女@池袋SOUNDPEACE
@@ -62,7 +60,9 @@ DESCRIPTION:新メンバーお披露目（新メンバーの詳細は後
  終演後）20:40-21:50\n料金: 前方Sチケット2\,000円 / 一般Aチ
  ケット0円 / 当日各+500円 / 各1D\n予約: https://livepocket.jp/e/
  hiraeth40（チケ発 10/19 22:00）\n出典: https://x.com/hiraeth_tokyo/
- status/2111677401629602002
+ status/2111677401629602002\n青葉咲來 生誕祭(12/6)の紙チケット
+ はこの日の物販卓で販売開始（https://x.com/hiraeth_tokyo/stat
+ us/2112831773226971483）
 LOCATION:BUZZ music LABO Shinjuku
 URL:https://livepocket.jp/e/hiraeth40
 END:VEVENT
@@ -73,15 +73,16 @@ DTSTART;TZID=Asia/Tokyo:20261025T162000
 DTEND;TZID=Asia/Tokyo:20261025T182000
 DTSTAMP:20261021T231000Z
 UID:hiraeth-17967@hiraeth.tokyo
-DESCRIPTION:イベント: IDOLetter（アイドレター）2部＠中野
- 坂上S.U.B\n種別: ライブ\n開場 16:00 / 開演 16:20（日本時間
- ）。終了時刻は未発表のため仮で2時間。対バンイベン
- トのため、HIRAETH.Tokyoの出番時刻は未発表。\nチケット: 
- 前方S 4\,000円 / 一般A 2\,500円\nチケット/詳細: https://t-dv.c
- om/IDOLetter_1025_02\n注意: HIRAETH.Tokyoの出番は16:45-17:10。物
- 販 17:15-18:15。開場・開演は10/21の再告知で16:00/16:20に変
- 更。\n出典: 公式サイト https://hiraeth.tokyo/event/2026-10-25/ / 
- 公式X告知（10/21更新）\n確度: 公式＋チケットサイト
+DESCRIPTION:開場16:00 / 開演16:20\nHIRAETH.Tokyo出番 16:45-17:10\n
+ 物販（特典会） 17:15-18:15（Aブース）\n指名特典: 写メ券
+  + 30秒トーク延長券\n料金: 前方Sチケット4\,000円 / 一般A
+ チケット2\,500円 / 当日券各+1\,000円（フライヤー画像の
+ 記載） / 別途1ドリンク代\n予約: https://t-dv.com/IDOLetter_102
+ 5_02（チケ発 10/20 22:30）\n出演: チルミチル/HIRAETH.Tokyo/星
+ 合いのライラック/気まぐれモンスター/真夜中のメリー
+ ゴーランド/Rociena/アオハルブレイブ/SHINKA↑/あいむふろ
+ む/踊れ！神風（タイムテーブル順）\n出典: https://x.com/h
+ iraeth_tokyo/status/2112855779065922002
 LOCATION:中野坂上S.U.B
 URL:https://t-dv.com/IDOLetter_1025_02
 END:VEVENT
@@ -104,37 +105,33 @@ LOCATION:渋谷音楽堂
 URL:https://idolwatch.jp/event/159150
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜[路上ライブ] 路上ライブ予定
+SUMMARY:HIRAETH.Tokyo｜路上ライブ＠東急歌舞伎町タワー北
+ 部「ヤマト運輸」横スペース
 DTSTART;TZID=Asia/Tokyo:20261028T181500
-DTEND;TZID=Asia/Tokyo:20261028T201500
+DTEND;TZID=Asia/Tokyo:20261028T184000
 DTSTAMP:20261021T231000Z
 UID:hiraeth-17880@hiraeth.tokyo
-DESCRIPTION:イベント: 路上ライブ予定\n種別: 路上ライブ\n
- 開始 18:15（日本時間）。終了時刻は仮で2時間。\n注意: 
- HIRAETH.Tokyoの路上ライブ 18:15-18:40（場所は10/21の再告知
- で変更）。\n出典: 公式サイト https://hiraeth.tokyo/event/%e8%b
- 7%af%e4%b8%8a%e3%83%a9%e3%82%a4%e3%83%96%e4%ba%88%e5%ae%9a/ / 公式X告
- 知（10/21更新）\n確度: 公式
+DESCRIPTION:路上ライブ 18:15-18:40\n場所: 東急歌舞伎町タワ
+ ー北部「ヤマト運輸」横スペース（10/21の再告知で西武
+ 新宿駅 和牛特区前から変更）\n料金・物販・特典会・
+ 持ち物の告知はなし（10/22朝時点）\n出典: https://x.com/hir
+ aeth_tokyo/status/2112740665146892355
 LOCATION:東急歌舞伎町タワー北部「ヤマト運輸」横スペ
  ース
-URL:https://hiraeth.tokyo/event/%e8%b7%af%e4%b8%8a%e3%83%a9%e3%82%a4%e3%83
- %96%e4%ba%88%e5%ae%9a/
+URL:https://x.com/hiraeth_tokyo/status/2112740665146892355
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜[撮影会・特典会] 【📸 新愛ニア&青
- 葉咲來&海寧らむ お散歩&撮影会 開催のお知らせ】
+SUMMARY:HIRAETH.Tokyo｜お散歩＆撮影会（新愛ニア・青葉咲
+ 來・海寧らむ）＠井の頭恩賜公園
 DTSTART;VALUE=DATE:20261029
 DTEND;VALUE=DATE:20261030
 DTSTAMP:20261021T231000Z
 UID:hiraeth-17920@hiraeth.tokyo
-DESCRIPTION:イベント: 【📸 新愛ニア&青葉咲來&海寧らむ 
- お散歩&撮影会 開催のお知らせ】\n種別: 撮影会・特典
- 会\n時刻は未発表のため終日予定で登録。\n出典: 公式
- サイト https://hiraeth.tokyo/event/%e3%80%90%f0%9f%93%b8-%e6%96%b0%e6%8
- 4%9b%e3%83%8b%e3%82%a2%e9%9d%92%e8%91%89%e5%92%b2%e4%be%86-%e3%81%8a%e6%95
- %a3%e6%ad%a9%e6%92%ae%e5%bd%b1%e4%bc%9a-%e9%96%8b%e5%82%ac%e3%81%ae%e3%81%
- 8a%e7%9f%a5/\n確度: 公式
-LOCATION:未発表
+DESCRIPTION:場所: 井の頭恩賜公園\n服装テーマ: 秋の上品
+ なお姉さんコーデ\nタイムテーブル（各枠50分）: ①14:00
+ -14:50 〜\n出典: https://x.com/hiraeth_tokyo/status/2109551819839991895
+  / https://x.com/hiraeth_tokyo/status/2110166195681022229
+LOCATION:井の頭恩賜公園
 URL:https://hiraeth.tokyo/event/%e3%80%90%f0%9f%93%b8-%e6%96%b0%e6%84%9b%e
  3%83%8b%e3%82%a2%e9%9d%92%e8%91%89%e5%92%b2%e4%be%86-%e3%81%8a%e6%95%a3%e6
  %ad%a9%e6%92%ae%e5%bd%b1%e4%bc%9a-%e9%96%8b%e5%82%ac%e3%81%ae%e3%81%8a%e7%
@@ -147,16 +144,12 @@ DTSTART;TZID=Asia/Tokyo:20261030T145000
 DTEND;TZID=Asia/Tokyo:20261030T165000
 DTSTAMP:20261021T231000Z
 UID:hiraeth-17787@hiraeth.tokyo
-DESCRIPTION:イベント: 「FUTURE: SUPER LIVE 2026」18色のハロウ
- ィン☆ドリームライド編＠大塚FUTURE:\n種別: ライブ\n開
- 場 14:30 / 開演 14:50（日本時間）。終了時刻は未発表の
- ため仮で2時間。対バンイベントのため、HIRAETH.Tokyoの出
- 番時刻は未発表。\nチケット: 前方4\,000円 / 一般2\,500円
- （各ドリンク別、当日500円UP、予約のみ・当日払い）\n
- チケット/詳細: https://tiget.net/events/531794\n注意: HIRAETH.Toky
- oの出番は17:15-17:35。物販 17:45-18:35。\n出典: 公式サイト 
- https://hiraeth.tokyo/event/2026-10-30/ / 公式X告知（10/20更新）\n
- 確度: 公式＋チケットサイト
+DESCRIPTION:開場14:30 / 開演14:50予定\nHIRAETH.Tokyo出番 17:15-17:
+ 35\n物販 17:45-18:35（Bブース）\n指名特典: チェキ券 + 3ポ
+ イント\n料金: 前方4\,000円 / 一般2\,500円（各ドリンク別
+ ）当日500円UP、予約のみ・当日払い\n予約: https://tiget.net
+ /events/531794\n出典: https://x.com/hiraeth_tokyo/status/211251417025206
+ 3078
 LOCATION:大塚FUTURE:
 URL:https://tiget.net/events/531794
 END:VEVENT
@@ -180,15 +173,12 @@ DTSTART;TZID=Asia/Tokyo:20261031T152000
 DTEND;TZID=Asia/Tokyo:20261031T172000
 DTSTAMP:20261021T231000Z
 UID:hiraeth-17503@hiraeth.tokyo
-DESCRIPTION:イベント: プリュトラハロウィン Vol.2@SHIBUYA DES
- EO\n種別: ライブ\n開場 15:00 / 開演 15:20（日本時間）。終
- 了時刻は未発表のため仮で2時間。対バンイベントのた
- め、HIRAETH.Tokyoの出番時刻は未発表。\nチケット: 前売 
- 前方3\,000円 / 一般1\,500円、当日+500円（ドリンク別）。
- 一般販売 10/19 20:30〜\nチケット/詳細: https://ticketdive.com/e
- vent/2pltr1031\n出典: 公式サイト https://hiraeth.tokyo/event/2026-1
- 0-31/ / TicketDive（出演者にHIRAETH.Tokyoの記載あり）\n確度: 
- 公式＋チケットサイト
+DESCRIPTION:開場15:00 / 開演15:20\nHIRAETH.Tokyo出番 15:20-15:40\n
+ 物販 15:45-16:45（Aブース）\n指名特典: サイン入りチェキ
+ 券 + 撮影券\n各メンバーが仮装姿で出演\n料金: 前売 前
+ 方3\,000円 / 一般1\,500円 / 当日+500円（ドリンク別）\n予
+ 約: https://ticketdive.com/event/2pltr1031\n出典: https://x.com/hiraeth
+ _tokyo/status/2112748210574041188
 LOCATION:SHIBUYA DESEO
 URL:https://ticketdive.com/event/2pltr1031
 END:VEVENT
