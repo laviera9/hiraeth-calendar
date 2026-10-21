@@ -50,18 +50,21 @@ LOCATION:池袋SOUNDPEACE
 URL:https://tiget.net/events/531961
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜HIRAETH.Tokyo定期ライブvol.40@新宿
-DTSTART;VALUE=DATE:20261025
-DTEND;VALUE=DATE:20261026
+SUMMARY:HIRAETH.Tokyo｜定期ライブvol.40（新メンバーお披露
+ 目）＠BUZZ music LABO Shinjuku
+DTSTART;TZID=Asia/Tokyo:20261025T193000
+DTEND;TZID=Asia/Tokyo:20261025T215000
 DTSTAMP:20261021T231000Z
 UID:hiraeth-17501@hiraeth.tokyo
-DESCRIPTION:イベント: HIRAETH.Tokyo定期ライブvol.40@新宿\n種
- 別: ライブ\n時刻は未発表のため終日予定で登録。\n出
- 典: 公式サイト https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%
- 96%e6%96%b0%e5%ae%bf-5/\n確度: 公式
-LOCATION:新宿（会場名未発表）
-URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e6%96%b0%e5%ae
- %bf-5/
+DESCRIPTION:新メンバーお披露目（新メンバーの詳細は後
+ 日発表）\n開場19:30 / 開演19:45\nLIVE: 海寧らむ 19:45-19:55 / 
+ 新愛ニア 19:55-20:00 / HIRAETH.Tokyo 20:00-20:30\n特典会（全組
+ 終演後）20:40-21:50\n料金: 前方Sチケット2\,000円 / 一般Aチ
+ ケット0円 / 当日各+500円 / 各1D\n予約: https://livepocket.jp/e/
+ hiraeth40（チケ発 10/19 22:00）\n出典: https://x.com/hiraeth_tokyo/
+ status/2111677401629602002
+LOCATION:BUZZ music LABO Shinjuku
+URL:https://livepocket.jp/e/hiraeth40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜IDOLetter（アイドレター）2部＠中野坂
