@@ -33,42 +33,19 @@ URL:https://t-dv.com/buzz1022
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜遊撃少女@池袋SOUNDPEACE
-DTSTART;TZID=Asia/Tokyo:20261024T182500
-DTEND;TZID=Asia/Tokyo:20261024T202500
-DTSTAMP:20261021T231000Z
+DTSTART;TZID=Asia/Tokyo:20261024T194500
+DTEND;TZID=Asia/Tokyo:20261024T200500
+DTSTAMP:20261022T231000Z
 UID:hiraeth-17499@hiraeth.tokyo
 DESCRIPTION:イベント: 遊撃少女@池袋SOUNDPEACE\n種別: ライブ
- \n開場 18:10 / 開演 18:25（日本時間）。終了時刻は未発表
- のため仮で2時間。対バンイベントのため、HIRAETH.Tokyoの
- 出番時刻は未発表。\nチケット: 予約 1\,900円 / 当日 +500
- 円（ドリンク別）\nチケット/詳細: https://tiget.net/events/53
- 1961\n出典: 公式サイト https://hiraeth.tokyo/event/2026-10-24/ / 
- 公式X告知（10/19）\n確度: 公式＋チケットサイト
+ \n💗姫咲: 公式告知に名前なし\nHIRAETH.Tokyoの出番: 19:45-2
+ 0:05（公式X 10/22告知）\n開場 18:10 / 開演 18:25（日本時間
+ ）。\nチケット: 予約 1\,900円 / 当日 +500円（ドリンク別
+ ）\nチケット/詳細: https://tiget.net/events/531961\n出典: 公式
+ サイト https://hiraeth.tokyo/event/2026-10-24/ / 公式X告知（10/19
+ ）\n確度: 公式＋チケットサイト
 LOCATION:池袋SOUNDPEACE
 URL:https://tiget.net/events/531961
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜定期ライブvol.40（新メンバーお披露
- 目）＠BUZZ music LABO Shinjuku
-DTSTART;TZID=Asia/Tokyo:20261025T193000
-DTEND;TZID=Asia/Tokyo:20261025T215000
-DTSTAMP:20261021T231000Z
-UID:hiraeth-17501@hiraeth.tokyo
-DESCRIPTION:★新メンバーお披露目（名前・人数は公式「
- 後日発表」）\n💗姫咲こはく: 公式告知に名前なし（10/
- 22朝時点）\n出番はすべてHIRAETH.Tokyoメンバー: 海寧らむ 
- 19:45-19:55 / 新愛ニア 19:55-20:00 / HIRAETH.Tokyo 20:00-20:30\n新メ
- ンバーお披露目（新メンバーの詳細は後日発表）\n開場
- 19:30 / 開演19:45\nLIVE: 海寧らむ 19:45-19:55 / 新愛ニア 19:55-2
- 0:00 / HIRAETH.Tokyo 20:00-20:30\n特典会（全組終演後）20:40-21:5
- 0\n料金: 前方Sチケット2\,000円 / 一般Aチケット0円 / 当日
- 各+500円 / 各1D\n予約: https://livepocket.jp/e/hiraeth40（チケ発 
- 10/19 22:00）\n出典: https://x.com/hiraeth_tokyo/status/211167740162960
- 2002\n青葉咲來 生誕祭(12/6)の紙チケットはこの日の物販
- 卓で販売開始（https://x.com/hiraeth_tokyo/status/211283177322697148
- 3）
-LOCATION:BUZZ music LABO Shinjuku
-URL:https://livepocket.jp/e/hiraeth40
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜IDOLetter（アイドレター）2部＠中野坂
@@ -91,22 +68,44 @@ LOCATION:中野坂上S.U.B
 URL:https://t-dv.com/IDOLetter_1025_02
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜「SHIBUYA KAWAII SUPER LIVE」＠渋谷音楽堂
-DTSTART;TZID=Asia/Tokyo:20261027T152000
-DTEND;TZID=Asia/Tokyo:20261027T172000
-DTSTAMP:20261021T231000Z
+SUMMARY:HIRAETH.Tokyo｜定期ライブvol.40（新メンバーお披露
+ 目）＠BUZZ music LABO Shinjuku
+DTSTART;TZID=Asia/Tokyo:20261025T193000
+DTEND;TZID=Asia/Tokyo:20261025T215000
+DTSTAMP:20261022T231000Z
+UID:hiraeth-17501@hiraeth.tokyo
+DESCRIPTION:★新メンバー稀月莉愛（きづき りあ・赤色担
+ 当）お披露目（10/22 21:00 公式発表 https://x.com/hiraeth_tokyo/
+ status/2113238954698768640）\n💗姫咲こはく: 公式告知に名前
+ なし（10/23朝時点。新メンバーは稀月莉愛で、姫咲では
+ ない）\n出番はすべてHIRAETH.Tokyoメンバー: 海寧らむ 19:45
+ -19:55 / 新愛ニア 19:55-20:00 / HIRAETH.Tokyo 20:00-20:30\n新メン
+ バーお披露目（新メンバーは稀月莉愛）\n開場19:30 / 開
+ 演19:45\nLIVE: 海寧らむ 19:45-19:55 / 新愛ニア 19:55-20:00 / HIRA
+ ETH.Tokyo 20:00-20:30\n特典会（全組終演後）20:40-21:50\n料金: 
+ 前方Sチケット2\,000円 / 一般Aチケット0円 / 当日各+500円 
+ / 各1D\n予約: https://livepocket.jp/e/hiraeth40（チケ発 10/19 22:00
+ ）\n出典: https://x.com/hiraeth_tokyo/status/2111677401629602002\n青
+ 葉咲來 生誕祭(12/6)の紙チケットはこの日の物販卓で販
+ 売開始（https://x.com/hiraeth_tokyo/status/2112831773226971483）
+LOCATION:BUZZ music LABO Shinjuku
+URL:https://livepocket.jp/e/hiraeth40
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜「SHIBUYA KAWAII SUPER LIVE」KAWAII CROSSING編
+ ＠渋谷音楽堂
+DTSTART;TZID=Asia/Tokyo:20261027T170500
+DTEND;TZID=Asia/Tokyo:20261027T172500
+DTSTAMP:20261022T231000Z
 UID:hiraeth-17785@hiraeth.tokyo
-DESCRIPTION:イベント: 「SHIBUYA KAWAII SUPER LIVE」＠渋谷音楽
- 堂\n種別: ライブ\n開場 15:00 / 開演 15:20（日本時間）。
- 終了時刻は未発表のため仮で2時間。対バンイベントの
- ため、HIRAETH.Tokyoの出番時刻は未発表。\nチケット/詳細:
-  https://idolwatch.jp/event/159150\n注意: 公式は「ライブ＠渋谷
- 」とだけ表記。イベント名と会場はIDOL Watchの情報。\n
- 出典: 公式サイト https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%
- 83%96%ef%bc%a0%e6%b8%8b%e8%b0%b7-6/ / IDOL Watch（元情報TIGET）\n確
- 度: 公式（時刻はIDOL Watch経由）
+DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 15:00 / 開演
+  15:20予定（日本時間）\nHIRAETH.Tokyoの出番: 17:05-17:25 ／ 
+ 物販 17:35-18:25（Cブース）\nチケット: 前方4\,000円 / 一般
+ 2\,500円（各ドリンク別、当日500円UP）\nチケット/詳細: h
+ ttps://tiget.net/events/531741\n出典: 公式X https://x.com/hiraeth_toky
+ o/status/2113238950622187874\n確度: 公式＋チケットサイト
 LOCATION:渋谷音楽堂
-URL:https://idolwatch.jp/event/159150
+URL:https://tiget.net/events/531741
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜路上ライブ＠東急歌舞伎町タワー北
@@ -158,20 +157,6 @@ LOCATION:大塚FUTURE:
 URL:https://tiget.net/events/531794
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜ライブ＠渋谷
-DTSTART;VALUE=DATE:20261031
-DTEND;VALUE=DATE:20261101
-DTSTAMP:20261021T231000Z
-UID:hiraeth-17789@hiraeth.tokyo
-DESCRIPTION:イベント: ライブ＠渋谷\n種別: ライブ\n時刻は
- 未発表のため終日予定で登録。\n出典: 公式サイト https:
- //hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e6%b8%8b%e8%b0%
- b7-7/\n確度: 公式（詳細未発表の予定枠）
-LOCATION:渋谷（会場名未発表）
-URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e6%b8
- %8b%e8%b0%b7-7/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜プリュトラハロウィン Vol.2@SHIBUYA DESEO
 DTSTART;TZID=Asia/Tokyo:20261031T152000
 DTEND;TZID=Asia/Tokyo:20261031T172000
@@ -185,6 +170,23 @@ DESCRIPTION:開場15:00 / 開演15:20\nHIRAETH.Tokyo出番 15:20-15:40\n
  _tokyo/status/2112748210574041188
 LOCATION:SHIBUYA DESEO
 URL:https://ticketdive.com/event/2pltr1031
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜「SHIBUYA KAWAII SUPER LIVE」IDOL SCRAMBLE編＠
+ 渋谷音楽堂
+DTSTART;TZID=Asia/Tokyo:20261031T204000
+DTEND;TZID=Asia/Tokyo:20261031T210000
+DTSTAMP:20261022T231000Z
+UID:hiraeth-17789@hiraeth.tokyo
+DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 9:30 / 開演 
+ 9:45予定（日本時間）\nHIRAETH.Tokyoの出番: 20:40-21:00 ／ 物
+ 販 21:40-22:30（Fブース）\nチケット: 前方4\,500円 / 一般3\,
+ 000円（各ドリンク別、当日500円UP）。チケット発売 10/22
+  22:00〜\nチケット/詳細: https://tiget.net/events/532791\n出典: 
+ 公式X https://x.com/hiraeth_tokyo/status/2113225442333458649\n確度: 
+ 公式＋チケットサイト
+LOCATION:渋谷音楽堂
+URL:https://tiget.net/events/532791
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ＠渋谷
@@ -245,6 +247,21 @@ DESCRIPTION:イベント: ライブ@渋谷\n種別: ライブ\n時刻は
 LOCATION:渋谷（会場名未発表）
 URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e6%b8%8b%e8%b0
  %b7-10/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜[撮影会・特典会] パジャマチェキ会
+ （入場無料）
+DTSTART;TZID=Asia/Tokyo:20261108T170000
+DTEND;TZID=Asia/Tokyo:20261108T180000
+DTSTAMP:20261022T231000Z
+UID:hiraeth-x2113223857482121485@hiraeth.tokyo
+DESCRIPTION:💗姫咲: 公式告知に名前なし\n17:00〜18:00（日
+ 本時間）。入場無料・ドリンク代なし。\nメンバーがパ
+ ジャマ姿で登場。卒業メンバーの汐音亜美奈も特別参
+ 加。\n出典: 公式X https://x.com/hiraeth_tokyo/status/211322385748212
+ 1485（公式サイトの一覧には未掲載）\n確度: 公式X
+LOCATION:新宿KSビル3階（東京都新宿区歌舞伎町2-15-3）
+URL:https://x.com/hiraeth_tokyo/status/2113223857482121485
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ@渋谷
