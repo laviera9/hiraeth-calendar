@@ -224,18 +224,22 @@ LOCATION:GOTANDA G6
 URL:https://paylove.org/events/1786
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜ライブ@新宿
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-DTSTAMP:20261021T231000Z
+SUMMARY:HIRAETH.Tokyo｜「JAPAN IDOL SUPER LIVE」SHINJUKU CITYLIGHT☆IDO
+ L SYMPHONY編＠新宿ReNY
+DTSTART;TZID=Asia/Tokyo:20261104T150000
+DTEND;TZID=Asia/Tokyo:20261104T210000
+DTSTAMP:20261026T225500Z
 UID:hiraeth-17884@hiraeth.tokyo
-DESCRIPTION:イベント: ライブ@新宿\n種別: ライブ\n時刻は
- 未発表のため終日予定で登録。\n出典: 公式サイト https:
- //hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e6%96%b0%e5%ae%bf-2/\n
- 確度: 公式（詳細未発表の予定枠）
-LOCATION:新宿（会場名未発表）
-URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e6%96%b0%e5%ae
- %bf-2/
+DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 15:00 / 開演 
+ 15:30（日本時間、変更の場合あり）。HIRAETH.Tokyoの出番
+ 時刻は未発表。終了時刻は未発表のため仮で21:00。\n出
+ 演: 18組（対バン）\nチケット: 前方優先5\,000円 / 一般3\,
+ 000円（各ドリンク別、当日500円UP）。発売 10/26 22:00〜\n
+ チケット/詳細: https://t-dv.com/JAPANIDOLSUPERLIVE2026ShinjukuReNY11
+ 04\n出典: 公式X https://x.com/hiraeth_tokyo/status/2114628066085679524
+ \n確度: 公式＋チケットサイト
+LOCATION:新宿ReNY
+URL:https://t-dv.com/JAPANIDOLSUPERLIVE2026ShinjukuReNY1104
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ@渋谷
@@ -434,7 +438,7 @@ DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 DTSTAMP:20261021T231000Z
 UID:hiraeth-17544@hiraeth.tokyo
-DESCRIPTION:イベント: -HIRAETH.Tokyo- 青葉咲來 生誕祭『19さ
+DESCRIPTION:ゲスト出演: 有頂天メリー！（10/26公式発表 https://x.com/hiraeth_tokyo/status/2114567699699499304）\nイベント: -HIRAETH.Tokyo- 青葉咲來 生誕祭『19さ
  い、もっと♡もっと♡アイドル！』@中野坂上S.U.B\n種別
  : ライブ\n時刻は未発表のため終日予定で登録。\nチケ
  ット: S 5\,000円 / A 3\,000円 / 招待1\,000円 / 生誕パック10\,0
