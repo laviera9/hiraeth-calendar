@@ -237,18 +237,11 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜「JAPAN IDOL SUPER LIVE」SHINJUKU CITYLIGHT☆IDO
  L SYMPHONY編＠新宿ReNY
-DTSTART;TZID=Asia/Tokyo:20261104T150000
-DTEND;TZID=Asia/Tokyo:20261104T210000
+DTSTART;TZID=Asia/Tokyo:20261104T175500
+DTEND;TZID=Asia/Tokyo:20261104T191500
 DTSTAMP:20261026T225500Z
 UID:hiraeth-17884@hiraeth.tokyo
-DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 15:00 / 開演 
- 15:30（日本時間、変更の場合あり）。HIRAETH.Tokyoの出番
- 時刻は未発表。終了時刻は未発表のため仮で21:00。\n出
- 演: 18組（対バン）\nチケット: 前方優先5\,000円 / 一般3\,
- 000円（各ドリンク別、当日500円UP）。発売 10/26 22:00〜\n
- チケット/詳細: https://t-dv.com/JAPANIDOLSUPERLIVE2026ShinjukuReNY11
- 04\n出典: 公式X https://x.com/hiraeth_tokyo/status/2114628066085679524
- \n確度: 公式＋チケットサイト
+DESCRIPTION:開場 15:00 / 開演 15:30（変更の場合あり）\nHIRAETH.Tokyo出番 17:55-18:15\n物販 18:25-19:15（Bブース）\n指名特典: サイン入り集合デカチェキ + チェキ券 + 3ポイント\nチケット: 前方優先5\,000円 / 一般3\,000円（各ドリンク別、当日500円UP）\n出典: https://x.com/hiraeth_tokyo/status/2115262280518521004
 LOCATION:新宿ReNY
 URL:https://t-dv.com/JAPANIDOLSUPERLIVE2026ShinjukuReNY1104
 END:VEVENT
