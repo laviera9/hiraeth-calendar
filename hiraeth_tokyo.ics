@@ -288,18 +288,14 @@ LOCATION:中野坂上 SUB Tokyo
 URL:https://x.com/hiraeth_tokyo/status/2113858022334153208
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜ライブ@渋谷
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-DTSTAMP:20261021T231000Z
+SUMMARY:HIRAETH.Tokyo｜「SHIBUYA KAWAII SUPER LIVE」SHIBUYA PRISM☆IDOL RUNWAY編
+DTSTART;TZID=Asia/Tokyo:20261110T193000
+DTEND;TZID=Asia/Tokyo:20261110T195000
+DTSTAMP:20261030T230000Z
 UID:hiraeth-17886@hiraeth.tokyo
-DESCRIPTION:イベント: ライブ@渋谷\n種別: ライブ\n時刻は未
- 発表のため終日予定で登録。\n出典: 公式サイト https://h
- iraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e6%b8%8b%e8%b0%b7-4/\n確
- 度: 公式（詳細未発表の予定枠）
-LOCATION:渋谷（会場名未発表）
-URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e6%b8%8b%e8%b0%
- b7-4/
+DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 15:15 / 開演 15:45（予定）\nHIRAETH.Tokyo出番 19:30-19:50\n料金: 前方 4\,000円 / 一般 2\,500円（各D別・予約のみ当日払い）\nチケット: https://tiget.net/events/534578\n出典: https://x.com/hiraeth_tokyo/status/2116124505680851147
+LOCATION:渋谷音楽堂
+URL:https://x.com/hiraeth_tokyo/status/2116124505680851147
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜お散歩＆撮影会@代々木公園
@@ -404,18 +400,14 @@ URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e7%a7%
  8b%e8%91%89%e5%8e%9f/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜ライブ@中野坂上
-DTSTART;VALUE=DATE:20261129
-DTEND;VALUE=DATE:20261130
-DTSTAMP:20261021T231000Z
+SUMMARY:HIRAETH.Tokyo｜-TOKYO.HAJIMARI.FES- vol.8【HIRAETH.Tokyo新体制SP】
+DTSTART;TZID=Asia/Tokyo:20261129T101500
+DTEND;TZID=Asia/Tokyo:20261129T200000
+DTSTAMP:20261030T230000Z
 UID:hiraeth-17898@hiraeth.tokyo
-DESCRIPTION:イベント: ライブ@中野坂上\n種別: ライブ\n時刻
- は未発表のため終日予定で登録。\n出典: 公式サイト htt
- ps://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%b8%ad%e9%87%8e%e5%
- 9d%82%e4%b8%8a-3/\n確度: 公式（詳細未発表の予定枠）
-LOCATION:中野坂上（会場名未発表）
-URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%b8%ad%e9%87%
- 8e%e5%9d%82%e4%b8%8a-3/
+DESCRIPTION:💗姫咲: 公式告知に名前なし（本人が告知を引用して「わあああ！！」）\n🌟HIRAETH.Tokyo新体制SP（新体制の内容は未発表）\n開場 10:15 / 開演 10:30\nHIRAETH.Tokyoの出番は未定（終了時刻は仮）\n料金: 前方S 3\,500円 / 一般A 2\,500円 / 当日+500円（+1D）\nチケット: https://livepocket.jp/e/tokyohajimarifes8\n出典: https://x.com/hiraeth_tokyo/status/2116153143314829370
+LOCATION:中野坂上S.U.B
+URL:https://x.com/hiraeth_tokyo/status/2116153143314829370
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ@新宿
@@ -521,5 +513,15 @@ DESCRIPTION:イベント: ライブ＠大塚\n種別: ライブ\n時刻は
 LOCATION:大塚（会場名未発表）
 URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e5%a4%
  a7%e5%a1%9a-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜定期ライブ
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+DTSTAMP:20261030T230000Z
+UID:hiraeth-20270108-teiki@hiraeth.tokyo
+DESCRIPTION:イベント: HIRAETH.Tokyo定期ライブ\n種別: ライブ\n会場・時刻は未発表のため終日予定で登録。\n出典: 公式サイト https://hiraeth.tokyo/event/hiraeth-tokyo%e5%ae%9a%e6%9c%9f%e3%83%a9%e3%82%a4%e3%83%96/\n確度: 公式（詳細未発表の予定枠）
+LOCATION:未発表
+URL:https://hiraeth.tokyo/event/hiraeth-tokyo%e5%ae%9a%e6%9c%9f%e3%83%a9%e3%82%a4%e3%83%96/
 END:VEVENT
 END:VCALENDAR
