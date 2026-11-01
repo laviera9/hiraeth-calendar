@@ -34,11 +34,16 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜アルビレオ vol.2
 DTSTART;TZID=Asia/Tokyo:20261102T173000
 DTEND;TZID=Asia/Tokyo:20261102T180000
-DTSTAMP:20261030T020000Z
+DTSTAMP:20261101T225500Z
 UID:hiraeth-17882@hiraeth.tokyo
-DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 15:30 / 開演 16:00\nHIRAETH.Tokyo出番 17:30-18:00 ／ 物販 18:10-19:10（Bブース）\n料金: ADV 3\,000円 / DOOR 4\,000円（+1D）\nチケット: https://ticketdive.com/event/ALBIREO-vol2\n出典: https://x.com/hiraeth_tokyo/status/2115758260443832346
+DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 15:30 / 開演 
+ 16:00\nHIRAETH.Tokyo出番 17:30-18:00 ／ 物販 18:10-19:10（Bブース
+ ）\n指名入場特典: チェキ券＋写メ券＋3ポイント（11/1
+ 追加）\n料金: ADV 3\,000円 / DOOR 4\,000円（+1D）\nチケット: 
+ https://ticketdive.com/event/ALBIREO-vol2\n出典: https://x.com/hiraeth_t
+ okyo/status/2116815009728905435
 LOCATION:SHIBUYA DESEO
-URL:https://x.com/hiraeth_tokyo/status/2115758260443832346
+URL:https://x.com/hiraeth_tokyo/status/2116815009728905435
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜無銭ぷろじぇくと!! vol.115＠GOTANDA G6
@@ -141,18 +146,22 @@ LOCATION:代々木公園
 URL:https://x.com/hiraeth_tokyo/status/2113820272880935020
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜HIRAETH.Tokyo定期ライブvol.41@新宿
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-DTSTAMP:20261021T231000Z
+SUMMARY:HIRAETH.Tokyo｜定期ライブvol.41
+DTSTART;TZID=Asia/Tokyo:20261118T191000
+DTEND;TZID=Asia/Tokyo:20261118T215000
+DTSTAMP:20261101T225500Z
 UID:hiraeth-17507@hiraeth.tokyo
-DESCRIPTION:イベント: HIRAETH.Tokyo定期ライブvol.41@新宿\n種別
- : ライブ\n時刻は未発表のため終日予定で登録。\n出典: 
- 公式サイト https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e6
- %96%b0%e5%ae%bf-6/\n確度: 公式
-LOCATION:新宿（会場名未発表）
-URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e6%96%b0%e5%ae%
- bf-6/
+DESCRIPTION:💗姫咲: 公式告知に名前なし（ソロ出番にもな
+ し）\n開場 19:10 / 開演 19:20\nHIRAETH.Tokyo出番 20:15-20:45\nソ
+ ロ: 海寧らむ 19:40-19:50 / 青葉咲來 19:50-19:55 / 新愛ニア 19
+ :55-20:00\n汐音亜美奈 20:00-20:15（Hajimari project研修生）\n物
+ 販 20:50-21:50（全組終演後）\n出演: HIRAETH.Tokyo / 真白ゆい
+  / 風見える / 汐音亜美奈\n料金: 前方S 2\,000円 / 一般A 500
+ 円 / 当日各+500円（+1D）\nチケット発売 11/3 22:00〜 https://
+ livepocket.jp/e/hiraethvol41\n出典: https://x.com/hiraeth_tokyo/status/2
+ 116877933239288288
+LOCATION:BUZZ music LABO Shinjuku
+URL:https://x.com/hiraeth_tokyo/status/2116877933239288288
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ予定
@@ -229,16 +238,17 @@ SUMMARY:HIRAETH.Tokyo｜-TOKYO.HAJIMARI.FES- vol.8【HIRAETH.Tokyo新体制
  SP】
 DTSTART;TZID=Asia/Tokyo:20261129T101500
 DTEND;TZID=Asia/Tokyo:20261129T200000
-DTSTAMP:20261031T230000Z
+DTSTAMP:20261101T225500Z
 UID:hiraeth-17898@hiraeth.tokyo
-DESCRIPTION:💗姫咲: 公式告知に名前なし（本人が告知を引
- 用して「わあああ！！」、10/31にファンへ「11月29日（
- 夜）空いてますか」と質問）\n🌟HIRAETH.Tokyo新体制SP（
- 新体制の内容は未発表）\n開場 10:15 / 開演 10:30\nHIRAETH.To
- kyoの出番は未定（終了時刻は仮）\n料金: 前方S 3\,500円 /
-  一般A 2\,500円 / 当日+500円（+1D）\nチケット: https://livepoc
- ket.jp/e/tokyohajimarifes8\n出典: https://x.com/hiraeth_tokyo/status/211
- 6153143314829370
+DESCRIPTION:💗姫咲: 公式告知に名前なし。本人が11/1に「11
+ 月29日ひめに会いに来てくれる…？」「いい肉の日にデ
+ ビューできる」と投稿（グループ名は書いておらず、
+ 公式の加入・出演発表はまだ） https://x.com/himechanluv/statu
+ s/2116701405465686181\n🌟HIRAETH.Tokyo新体制SP（新体制の内容
+ は未発表）\n開場 10:15 / 開演 10:30\nHIRAETH.Tokyoの出番は未
+ 定（終了時刻は仮）\n料金: 前方S 3\,500円 / 一般A 2\,500円
+  / 当日+500円（+1D）\nチケット: https://livepocket.jp/e/tokyohaji
+ marifes8\n出典: https://x.com/hiraeth_tokyo/status/2116153143314829370
 LOCATION:中野坂上S.U.B
 URL:https://x.com/hiraeth_tokyo/status/2116153143314829370
 END:VEVENT
@@ -257,25 +267,24 @@ URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e6%96%b0%e5%ae%
  bf-4/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜-HIRAETH.Tokyo- 青葉咲來 生誕祭『19さい
- 、もっと♡もっと♡アイドル！』@中野坂上S.U.B
-DTSTART;VALUE=DATE:20261206
-DTEND;VALUE=DATE:20261207
-DTSTAMP:20261021T231000Z
+SUMMARY:HIRAETH.Tokyo｜青葉咲來 生誕祭『19さい、もっと♡も
+ っと♡アイドル！』
+DTSTART;TZID=Asia/Tokyo:20261206T170000
+DTEND;TZID=Asia/Tokyo:20261206T220500
+DTSTAMP:20261101T225500Z
 UID:hiraeth-17544@hiraeth.tokyo
-DESCRIPTION:ゲスト出演: 有頂天メリー！・BANKURUWASE!!・iROTOR
- iDOLLY・めいどinみんな！（10/26公式発表 https://x.com/hiraeth
- _tokyo/status/2114567699699499304）\nSPゲスト: ぶっとび！パン
- デミック（10/27公式発表 https://x.com/hiraeth_tokyo/status/211493
- 0086239494556）\nイベント: -HIRAETH.Tokyo- 青葉咲來 生誕祭『1
- 9さい、もっと♡もっと♡アイドル！』@中野坂上S.U.B\n
- 種別: ライブ\n時刻は未発表のため終日予定で登録。\n
- チケット: S 5\,000円 / A 3\,000円 / 招待1\,000円 / 生誕パッ
- ク10\,000円。ネット販売 10/26 21:00〜\nチケット/詳細: https
- ://livepocket.jp/e/sakiseitan2026\n出典: 公式サイト https://hiraeth
- .tokyo/event/2026-12-06/ / 公式イベントページ\n確度: 公式
+DESCRIPTION:💗姫咲: 青葉咲來の生誕祭（姫咲の名前なし）
+ \n開場 17:00 / 開演 17:15\nHIRAETH.Tokyo 20:15-20:20 / 青葉咲來ソ
+ ロ 20:20-20:25 / 青葉咲來×汐音亜美奈 20:25-20:30 / 青葉咲來
+ ×新愛ニア 20:30-20:35 / HIRAETH.Tokyo 20:35-20:50\n物販 20:55-22:05
+ （終演後）\nゲスト出演: 有頂天メリー！・BANKURUWASE!!・
+ iROTORiDOLLY・めいどinみんな！（10/26発表）、SPゲスト ぶ
+ っとび！パンデミック（10/27発表）\n料金: 前方S 5\,000円
+  / 一般A 3\,000円 / 当日各+1\,000円（各1D）\nチケット: https
+ ://livepocket.jp/e/sakiseitan2026\n出典: https://x.com/hiraeth_tokyo/sta
+ tus/2116877930395791647
 LOCATION:中野坂上S.U.B
-URL:https://livepocket.jp/e/sakiseitan2026
+URL:https://x.com/hiraeth_tokyo/status/2116877930395791647
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ＠新宿
