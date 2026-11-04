@@ -52,10 +52,10 @@ DTSTART;TZID=Asia/Tokyo:20261103T163000
 DTEND;TZID=Asia/Tokyo:20261103T164500
 DTSTAMP:20261102T230000Z
 UID:hiraeth-17791@hiraeth.tokyo
-DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 9:40 / 開演 
- 9:50\nHIRAETH.Tokyo出番 16:30-16:45\n物販 16:50-17:50（Cブース）\
- n海寧らむはスケジュールの都合でLIVE・特典会お休み（
- 11/2告知 https://x.com/hiraeth_tokyo/status/2117193502039977998）\n指
+DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 9:40 / 開演 9
+ :50\nHIRAETH.Tokyo出番 16:30-16:45\n物販 16:50-17:50（Cブース）\n
+ 海寧らむはスケジュールの都合でLIVE・特典会お休み（1
+ 1/2告知 https://x.com/hiraeth_tokyo/status/2117193502039977998）\n指
  名入場特典: 写メ券×2\nチケット: 通常エリア 0円 / 前方
  エリア 2\,500円 / 当日 各+1\,000円（各+2ドリンク）。再入
  場可（無料）\nチケット/詳細: https://paylove.org/events/1786\n
@@ -71,7 +71,12 @@ DTSTART;TZID=Asia/Tokyo:20261104T175500
 DTEND;TZID=Asia/Tokyo:20261104T191500
 DTSTAMP:20261026T225500Z
 UID:hiraeth-17884@hiraeth.tokyo
-DESCRIPTION:開場 15:00 / 開演 15:30（変更の場合あり）\nHIRAETH.Tokyo出番 17:55-18:15\n物販 18:25-19:15（Bブース）\n指名特典: サイン入り集合デカチェキ + チェキ券 + 3ポイント\nチケット: 前方優先5\,000円 / 一般3\,000円（各ドリンク別、当日500円UP）\n出典: https://x.com/hiraeth_tokyo/status/2115262280518521004
+DESCRIPTION:開場 15:00 / 開演 15:30（変更の場合あり）\nHIRAETH
+ .Tokyo出番 17:55-18:15\n物販 18:25-19:15（Bブース）\n指名特典
+ : サイン入り集合デカチェキ + チェキ券 + 3ポイント\nチ
+ ケット: 前方優先5\,000円 / 一般3\,000円（各ドリンク別、
+ 当日500円UP）\n出典: https://x.com/hiraeth_tokyo/status/211526228051
+ 8521004
 LOCATION:新宿ReNY
 URL:https://t-dv.com/JAPANIDOLSUPERLIVE2026ShinjukuReNY1104
 END:VEVENT
@@ -94,40 +99,48 @@ SUMMARY:HIRAETH.Tokyo｜[撮影会・特典会] パジャマチェキ会（
  入場無料）
 DTSTART;TZID=Asia/Tokyo:20261108T170000
 DTEND;TZID=Asia/Tokyo:20261108T180000
-DTSTAMP:20261022T231000Z
+DTSTAMP:20261104T230000Z
 UID:hiraeth-x2113223857482121485@hiraeth.tokyo
-DESCRIPTION:💗姫咲: 公式告知に名前なし\n17:00〜18:00（日本
- 時間）。入場無料・ドリンク代なし。\nメンバーがパジ
- ャマ姿で登場。卒業メンバーの汐音亜美奈も特別参加
- 。\n出典: 公式X https://x.com/hiraeth_tokyo/status/211322385748212148
- 5（公式サイトの一覧には未掲載）\n確度: 公式X
+DESCRIPTION:💗姫咲: 公式告知に名前なし（告知画像の参加
+ メンバーにもなし）\n17:00〜18:00（日本時間）。入場無
+ 料・ドリンク代なし。\nメンバーがパジャマ姿で登場。
+ 告知画像の参加: 新愛ニア・青葉咲來・海寧らむ・稀月
+ 莉愛、特別参加の卒業メンバー汐音亜美奈・Hajimari proje
+ ct研修生 風見える。\n出典: 公式X https://x.com/hiraeth_tokyo/s
+ tatus/2117821638355849576（11/4再告知）\n確度: 公式X
 LOCATION:新宿KSビル3階（東京都新宿区歌舞伎町2-15-3）
 URL:https://x.com/hiraeth_tokyo/status/2113223857482121485
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ちあもあ！新体制お披露目〜やっぱり
  ライブがサイコーじゃん！〜@中野坂上 SUB Tokyo
-DTSTART;TZID=Asia/Tokyo:20261108T184500
-DTEND;TZID=Asia/Tokyo:20261108T220000
-DTSTAMP:20261024T230000Z
+DTSTART;TZID=Asia/Tokyo:20261108T200000
+DTEND;TZID=Asia/Tokyo:20261108T202000
+DTSTAMP:20261104T230000Z
 UID:hiraeth-x2113858022334153208@hiraeth.tokyo
 DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 18:45 / 開演 
- 19:00（日本時間）。HIRAETH.Tokyoの出番・物販は未定（終
- 了時刻は仮）。\n出演: ちあもあ！ / Fortuness / HIRAETH.Tokyo
-  / and more\n料金: 前方5\,000円 / 通常3\,000円（事前精算） /
-  当日3\,500円（ドリンク別）\n予約: https://tiget.net/events/53
- 3358\n出典: 公式X https://x.com/hiraeth_tokyo/status/21138580223341532
- 08\n確度: 公式X
+ 19:00（日本時間）\nHIRAETH.Tokyo出番 20:00-20:20 / 物販 21:00-22
+ :00\n指名特典: チェキ券＋写メ券\n出演: ちあもあ！ / For
+ tuness / HIRAETH.Tokyo / and more\n料金: 前方5\,000円 / 通常3\,000
+ 円（事前精算） / 当日3\,500円（各+1D）\n予約: https://tiget
+ .net/events/533358\n出典: 公式X https://x.com/hiraeth_tokyo/status/211
+ 7934901056151621\n確度: 公式X
 LOCATION:中野坂上 SUB Tokyo
-URL:https://x.com/hiraeth_tokyo/status/2113858022334153208
+URL:https://x.com/hiraeth_tokyo/status/2117934901056151621
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜「SHIBUYA KAWAII SUPER LIVE」SHIBUYA PRISM☆IDOL RUNWAY編
+SUMMARY:HIRAETH.Tokyo｜「SHIBUYA KAWAII SUPER LIVE」SHIBUYA PRISM☆IDOL
+  RUNWAY編
 DTSTART;TZID=Asia/Tokyo:20261110T193000
 DTEND;TZID=Asia/Tokyo:20261110T195000
-DTSTAMP:20261030T230000Z
+DTSTAMP:20261104T230000Z
 UID:hiraeth-17886@hiraeth.tokyo
-DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 15:15 / 開演 15:45（予定）\nHIRAETH.Tokyo出番 19:30-19:50\n料金: 前方 4\,000円 / 一般 2\,500円（各D別・予約のみ当日払い）\nチケット: https://tiget.net/events/534578\n出典: https://x.com/hiraeth_tokyo/status/2116124505680851147
+DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 15:15 / 開演 
+ 15:45（予定）\nHIRAETH.Tokyo出番 19:30-19:50 / 物販 20:00-20:50（
+ C）\n指名入場特典: 集合写メ＋30秒トーク延長券＋3pt（1
+ 1/4追加）\n料金: 前方 4\,000円 / 一般 2\,500円（各D別・予
+ 約のみ当日払い）\nチケット: https://tiget.net/events/534578\n
+ 出典: https://x.com/hiraeth_tokyo/status/2116124505680851147
 LOCATION:渋谷音楽堂
 URL:https://x.com/hiraeth_tokyo/status/2116124505680851147
 END:VEVENT
@@ -240,21 +253,23 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜-TOKYO.HAJIMARI.FES- vol.8【HIRAETH.Tokyo新体制
  SP】
-DTSTART;TZID=Asia/Tokyo:20261129T101500
-DTEND;TZID=Asia/Tokyo:20261129T200000
-DTSTAMP:20261101T225500Z
+DTSTART;TZID=Asia/Tokyo:20261129T204500
+DTEND;TZID=Asia/Tokyo:20261129T210500
+DTSTAMP:20261104T230000Z
 UID:hiraeth-17898@hiraeth.tokyo
-DESCRIPTION:💗姫咲: 公式告知に名前なし。本人が11/1に「11
- 月29日ひめに会いに来てくれる…？」「いい肉の日にデ
- ビューできる」と投稿（グループ名は書いておらず、
- 公式の加入・出演発表はまだ） https://x.com/himechanluv/statu
- s/2116701405465686181\n🌟HIRAETH.Tokyo新体制SP（新体制の内容
- は未発表）\n開場 10:15 / 開演 10:30\nHIRAETH.Tokyoの出番は未
- 定（終了時刻は仮）\n料金: 前方S 3\,500円 / 一般A 2\,500円
-  / 当日+500円（+1D）\nチケット: https://livepocket.jp/e/tokyohaji
- marifes8\n出典: https://x.com/hiraeth_tokyo/status/2116153143314829370
+DESCRIPTION:💗姫咲: 公式告知に名前なし。本人が11/4、こ
+ の日の公式告知を引用して「⏱20:45~21:05です！！みんな
+ 会いに来てほしいな…久しぶりに会いたいの」と投稿
+ （HIRAETH.Tokyoの出番時間と同じ。公式の加入・出演発表
+ はまだ） https://x.com/himechanluv/status/2117967992558665870\n🌟HIR
+ AETH.Tokyo新体制SP（新体制の内容は未発表）\n開場 10:15（
+ 告知画像ではOPEN 10:20） / 開演 10:30\nHIRAETH.Tokyo出番 20:45-
+ 21:05 / 物販 21:10-22:10\n卒業生 汐音亜美奈もソロで出演 19
+ :05-19:25\n料金: 前方S 3\,500円 / 一般A 2\,500円 / 当日+500円
+ （+1D）\nチケット: https://livepocket.jp/e/tokyohajimarifes8\n出典
+ : https://x.com/hiraeth_tokyo/status/2117965084173496362
 LOCATION:中野坂上S.U.B
-URL:https://x.com/hiraeth_tokyo/status/2116153143314829370
+URL:https://x.com/hiraeth_tokyo/status/2117965084173496362
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ@新宿
@@ -366,8 +381,13 @@ DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 DTSTAMP:20261030T230000Z
 UID:hiraeth-20270108-teiki@hiraeth.tokyo
-DESCRIPTION:イベント: HIRAETH.Tokyo定期ライブ\n種別: ライブ\n会場・時刻は未発表のため終日予定で登録。\n出典: 公式サイト https://hiraeth.tokyo/event/hiraeth-tokyo%e5%ae%9a%e6%9c%9f%e3%83%a9%e3%82%a4%e3%83%96/\n確度: 公式（詳細未発表の予定枠）
+DESCRIPTION:イベント: HIRAETH.Tokyo定期ライブ\n種別: ライブ\n
+ 会場・時刻は未発表のため終日予定で登録。\n出典: 公
+ 式サイト https://hiraeth.tokyo/event/hiraeth-tokyo%e5%ae%9a%e6%9c%9f%e
+ 3%83%a9%e3%82%a4%e3%83%96/\n確度: 公式（詳細未発表の予定枠
+ ）
 LOCATION:未発表
-URL:https://hiraeth.tokyo/event/hiraeth-tokyo%e5%ae%9a%e6%9c%9f%e3%83%a9%e3%82%a4%e3%83%96/
+URL:https://hiraeth.tokyo/event/hiraeth-tokyo%e5%ae%9a%e6%9c%9f%e3%83%a9%e3
+ %82%a4%e3%83%96/
 END:VEVENT
 END:VCALENDAR
