@@ -81,18 +81,18 @@ LOCATION:新宿ReNY
 URL:https://t-dv.com/JAPANIDOLSUPERLIVE2026ShinjukuReNY1104
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜ライブ@渋谷
+SUMMARY:HIRAETH.Tokyo｜【中止】ライブ@渋谷
 DTSTART;VALUE=DATE:20261107
 DTEND;VALUE=DATE:20261108
 DTSTAMP:20261021T231000Z
 UID:hiraeth-17505@hiraeth.tokyo
-DESCRIPTION:イベント: ライブ@渋谷\n種別: ライブ\n時刻は未
- 発表のため終日予定で登録。\n出典: 公式サイト https://h
- iraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e6%b8%8b%e8%b0%b7-10/\n確
- 度: 公式（詳細未発表の予定枠）
+STATUS:CANCELLED
+DESCRIPTION:イベント: 【中止】ライブ@渋谷\n種別: ライブ\n
+ 公式発表で出演中止（主催者側の手配上の不備により
+ 出演者欄に記載がなく出演中止）。\n出典: https://x.com/h
+ iraeth_tokyo/status/2118703083119341819
 LOCATION:渋谷（会場名未発表）
-URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e6%b8%8b%e8%b0%
- b7-10/
+URL:https://x.com/hiraeth_tokyo/status/2118703083119341819
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜[撮影会・特典会] パジャマチェキ会（
