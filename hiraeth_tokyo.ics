@@ -237,6 +237,21 @@ URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%b8%ad%e9%87%
  8e%e5%9d%82%e4%b8%8a-2/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜ライブ@新宿
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+DTSTAMP:20261107T225500Z
+UID:hiraeth-20261127-shinjuku@hiraeth.tokyo
+DESCRIPTION:イベント: ライブ@新宿\n種別: ライブ\n時刻は未
+ 発表のため終日予定で登録（2026-11-08に公式サイトへ追
+ 加を確認）。\n出典: 公式サイト https://hiraeth.tokyo/event/%e
+ 3%83%a9%e3%82%a4%e3%83%96%e6%96%b0%e5%ae%bf-2/\n確度: 公式（詳細未
+ 発表の予定枠）
+LOCATION:新宿（会場名未発表）
+URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e6%96%b0%e5%ae%
+ bf-2/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ＠秋葉原
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
