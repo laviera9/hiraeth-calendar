@@ -163,6 +163,34 @@ LOCATION:代々木公園
 URL:https://x.com/hiraeth_tokyo/status/2113820272880935020
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜CULTURE CONNECT vol.2（2部）
+DTSTART;TZID=Asia/Tokyo:20261115T182000
+DTEND;TZID=Asia/Tokyo:20261115T213000
+DTSTAMP:20261109T230000Z
+UID:hiraeth-cultureconnect2-20261115@hiraeth.tokyo
+DESCRIPTION:💗姫咲: 公式告知に名前なし\nHIRAETH.Tokyoは2部
+ に出演: 開場 18:20 / 開演 18:50（1部 12:30/13:00は出演なし
+ ）\nLIVE・物販時間は未定\n料金: 前方 3\,500円 / 一般 2\,50
+ 0円（各部+1D）\nチケット発売 11/9 21:00 https://tiget.net/event
+ s/537175\n出典: https://x.com/hiraeth_tokyo/status/2119761923571089656\n
+ ※終了時刻は仮
+LOCATION:代々木ミューズホール
+URL:https://x.com/hiraeth_tokyo/status/2119761923571089656
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜キミ推しフェス vol.172
+DTSTART;TZID=Asia/Tokyo:20261117T172000
+DTEND;TZID=Asia/Tokyo:20261117T213000
+DTSTAMP:20261109T230000Z
+UID:hiraeth-kimioshi172-20261117@hiraeth.tokyo
+DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 17:20 / 開演 
+ 17:30\nHIRAETH.Tokyo出番は未発表\n料金: 最前 3\,000円 / 通常 
+ 2\,000円 / 当日各+1\,000円（+1D）・再入場可\n出典: https://x
+ .com/hiraeth_tokyo/status/2119784572846284922\n※終了時刻は仮
+LOCATION:GOTANDA G3
+URL:https://x.com/hiraeth_tokyo/status/2119784572846284922
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜定期ライブvol.41
 DTSTART;TZID=Asia/Tokyo:20261118T191000
 DTEND;TZID=Asia/Tokyo:20261118T215000
@@ -377,6 +405,20 @@ DESCRIPTION:イベント: ライブ予定\n種別: ライブ\n時刻は未
 LOCATION:未発表
 URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%ba%88%e5%ae%
  9a-6/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜MERRY PARTY
+DTSTART;TZID=Asia/Tokyo:20261214T190000
+DTEND;TZID=Asia/Tokyo:20261214T192500
+DTSTAMP:20261109T230000Z
+UID:hiraeth-meripa-20261214@hiraeth.tokyo
+DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 18:15 / 開演 
+ 18:35\nHIRAETH.Tokyo出番 19:00-19:25 / 物販 19:40-20:40（並行B）\n
+ 料金: 前方 2\,500円 / 通常 1\,500円 / 当日+500円（D代別）\n
+ チケット発売 11/10 22:30〜 https://ticketdive.com/event/MERIPA_1214
+ \n出典: https://x.com/hiraeth_tokyo/status/2119777033706160417
+LOCATION:aube shibuya
+URL:https://x.com/hiraeth_tokyo/status/2119777033706160417
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ＠大塚
