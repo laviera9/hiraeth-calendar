@@ -164,29 +164,30 @@ URL:https://x.com/hiraeth_tokyo/status/2113820272880935020
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜CULTURE CONNECT vol.2（2部）
-DTSTART;TZID=Asia/Tokyo:20261115T182000
-DTEND;TZID=Asia/Tokyo:20261115T213000
-DTSTAMP:20261109T230000Z
+DTSTART;TZID=Asia/Tokyo:20261115T195500
+DTEND;TZID=Asia/Tokyo:20261115T201500
+DTSTAMP:20261110T230000Z
 UID:hiraeth-cultureconnect2-20261115@hiraeth.tokyo
 DESCRIPTION:💗姫咲: 公式告知に名前なし\nHIRAETH.Tokyoは2部
  に出演: 開場 18:20 / 開演 18:50（1部 12:30/13:00は出演なし
- ）\nLIVE・物販時間は未定\n料金: 前方 3\,500円 / 一般 2\,50
- 0円（各部+1D）\nチケット発売 11/9 21:00 https://tiget.net/event
- s/537175\n出典: https://x.com/hiraeth_tokyo/status/2119761923571089656\n
- ※終了時刻は仮
+ ）\nHIRAETH.Tokyo出番 19:55-20:15 / 物販 20:55-21:55\n料金: 前方 
+ 3\,500円 / 一般 2\,500円（各部+1D）・1部リストバンド提示
+ で2部1\,000円割引\nチケット: https://tiget.net/events/537175\n出
+ 典: https://x.com/hiraeth_tokyo/status/2120109291650859291
 LOCATION:代々木ミューズホール
 URL:https://x.com/hiraeth_tokyo/status/2119761923571089656
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜キミ推しフェス vol.172
-DTSTART;TZID=Asia/Tokyo:20261117T172000
-DTEND;TZID=Asia/Tokyo:20261117T213000
-DTSTAMP:20261109T230000Z
+DTSTART;TZID=Asia/Tokyo:20261117T205500
+DTEND;TZID=Asia/Tokyo:20261117T211500
+DTSTAMP:20261110T230000Z
 UID:hiraeth-kimioshi172-20261117@hiraeth.tokyo
 DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 17:20 / 開演 
- 17:30\nHIRAETH.Tokyo出番は未発表\n料金: 最前 3\,000円 / 通常 
- 2\,000円 / 当日各+1\,000円（+1D）・再入場可\n出典: https://x
- .com/hiraeth_tokyo/status/2119784572846284922\n※終了時刻は仮
+ 17:30\nHIRAETH.Tokyo出番 20:55-21:15 / 物販 21:20-22:20\n料金: 最
+ 前 3\,000円 / 通常 2\,000円 / 当日各+1\,000円（+1D）・再入
+ 場可\nチケット: https://paylove.org/events/1800\n出典: https://x.c
+ om/hiraeth_tokyo/status/2120139410926875012
 LOCATION:GOTANDA G3
 URL:https://x.com/hiraeth_tokyo/status/2119784572846284922
 END:VEVENT
