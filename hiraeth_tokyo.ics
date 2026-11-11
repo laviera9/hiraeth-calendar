@@ -89,8 +89,8 @@ UID:hiraeth-17505@hiraeth.tokyo
 STATUS:CANCELLED
 DESCRIPTION:イベント: 【中止】ライブ@渋谷\n種別: ライブ\n
  公式発表で出演中止（主催者側の手配上の不備により
- 出演者欄に記載がなく出演中止）。\n出典: https://x.com/h
- iraeth_tokyo/status/2118703083119341819
+ 出演者欄に記載がなく出演中止）。\n出典: https://x.com/hi
+ raeth_tokyo/status/2118703083119341819
 LOCATION:渋谷（会場名未発表）
 URL:https://x.com/hiraeth_tokyo/status/2118703083119341819
 END:VEVENT
@@ -166,14 +166,16 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜CULTURE CONNECT vol.2（2部）
 DTSTART;TZID=Asia/Tokyo:20261115T195500
 DTEND;TZID=Asia/Tokyo:20261115T201500
-DTSTAMP:20261110T230000Z
+DTSTAMP:20261111T230000Z
 UID:hiraeth-cultureconnect2-20261115@hiraeth.tokyo
 DESCRIPTION:💗姫咲: 公式告知に名前なし\nHIRAETH.Tokyoは2部
  に出演: 開場 18:20 / 開演 18:50（1部 12:30/13:00は出演なし
  ）\nHIRAETH.Tokyo出番 19:55-20:15 / 物販 20:55-21:55\n料金: 前方 
  3\,500円 / 一般 2\,500円（各部+1D）・1部リストバンド提示
- で2部1\,000円割引\nチケット: https://tiget.net/events/537175\n出
- 典: https://x.com/hiraeth_tokyo/status/2120109291650859291
+ で2部1\,000円割引\n指名入場特典: 写メ券×2＋30秒トーク
+ 延長券（11/11追加 https://x.com/hiraeth_tokyo/status/212048775976075
+ 6967）\nチケット: https://tiget.net/events/537175\n出典: https://x.
+ com/hiraeth_tokyo/status/2120109291650859291
 LOCATION:代々木ミューズホール
 URL:https://x.com/hiraeth_tokyo/status/2119761923571089656
 END:VEVENT
@@ -181,13 +183,15 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜キミ推しフェス vol.172
 DTSTART;TZID=Asia/Tokyo:20261117T205500
 DTEND;TZID=Asia/Tokyo:20261117T211500
-DTSTAMP:20261110T230000Z
+DTSTAMP:20261111T230000Z
 UID:hiraeth-kimioshi172-20261117@hiraeth.tokyo
 DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 17:20 / 開演 
  17:30\nHIRAETH.Tokyo出番 20:55-21:15 / 物販 21:20-22:20\n料金: 最
  前 3\,000円 / 通常 2\,000円 / 当日各+1\,000円（+1D）・再入
- 場可\nチケット: https://paylove.org/events/1800\n出典: https://x.c
- om/hiraeth_tokyo/status/2120139410926875012
+ 場可\n指名入場特典: チェキ券＋3pt（11/11追加 https://x.com
+ /hiraeth_tokyo/status/2120501811589398689）\nチケット: https://paylov
+ e.org/events/1800\n出典: https://x.com/hiraeth_tokyo/status/212013941092
+ 6875012
 LOCATION:GOTANDA G3
 URL:https://x.com/hiraeth_tokyo/status/2119784572846284922
 END:VEVENT
@@ -299,21 +303,25 @@ SUMMARY:HIRAETH.Tokyo｜-TOKYO.HAJIMARI.FES- vol.8【HIRAETH.Tokyo新体制
  SP】
 DTSTART;TZID=Asia/Tokyo:20261129T204500
 DTEND;TZID=Asia/Tokyo:20261129T210500
-DTSTAMP:20261108T230000Z
+DTSTAMP:20261111T230000Z
 UID:hiraeth-17898@hiraeth.tokyo
 DESCRIPTION:💗姫咲: 公式告知に名前なし。本人が11/4、こ
  の日の公式告知を引用して「⏱20:45~21:05です！！みんな
  会いに来てほしいな…久しぶりに会いたいの」と投稿
  （HIRAETH.Tokyoの出番時間と同じ。公式の加入・出演発表
- はまだ） https://x.com/himechanluv/status/2117967992558665870。
- 本人が11/8、自作プロフィール画像に「Hajimari project研修
- 生」と記載（公式発表ではない） https://x.com/himechanluv/status/2119378266268356900\n🌟HIR
- AETH.Tokyo新体制SP（新体制の内容は未発表）\n開場 10:15（
- 告知画像ではOPEN 10:20） / 開演 10:30\nHIRAETH.Tokyo出番 20:45-
- 21:05 / 物販 21:10-22:10\n卒業生 汐音亜美奈もソロで出演 19
- :05-19:25\n料金: 前方S 3\,500円 / 一般A 2\,500円 / 当日+500円
- （+1D）\nチケット: https://livepocket.jp/e/tokyohajimarifes8\n出典
- : https://x.com/hiraeth_tokyo/status/2117965084173496362
+ はまだ） https://x.com/himechanluv/status/2117967992558665870。本人
+ が11/8、自作プロフィール画像に「Hajimari project研修生」
+ と記載（公式発表ではない） https://x.com/himechanluv/status/2
+ 119378266268356900。本人が11/11、返信で「11月29日に中野坂
+ 上でお披露目ライブがある」「11月29日に新メンバーお
+ 披露目ライブあるアイドル」と投稿（本人発言・公式
+ の加入発表はまだ） https://x.com/himechanluv/status/2120429413728
+ 932321\n🌟HIRAETH.Tokyo新体制SP（新体制の内容は未発表）\n
+ 開場 10:15（告知画像ではOPEN 10:20） / 開演 10:30\nHIRAETH.Tok
+ yo出番 20:45-21:05 / 物販 21:10-22:10\n卒業生 汐音亜美奈もソ
+ ロで出演 19:05-19:25\n料金: 前方S 3\,500円 / 一般A 2\,500円 / 
+ 当日+500円（+1D）\nチケット: https://livepocket.jp/e/tokyohajimar
+ ifes8\n出典: https://x.com/hiraeth_tokyo/status/2117965084173496362
 LOCATION:中野坂上S.U.B
 URL:https://x.com/hiraeth_tokyo/status/2117965084173496362
 END:VEVENT
