@@ -196,36 +196,44 @@ LOCATION:GOTANDA G3
 URL:https://x.com/hiraeth_tokyo/status/2119784572846284922
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜定期ライブvol.41
+SUMMARY:HIRAETH.Tokyo｜定期ライブvol.41（💗姫咲こはく出演
+ ）
 DTSTART;TZID=Asia/Tokyo:20261118T191000
-DTEND;TZID=Asia/Tokyo:20261118T215000
-DTSTAMP:20261101T225500Z
+DTEND;TZID=Asia/Tokyo:20261118T220000
+DTSTAMP:20261113T230000Z
 UID:hiraeth-17507@hiraeth.tokyo
-DESCRIPTION:💗姫咲: 公式告知に名前なし（ソロ出番にもな
- し）\n開場 19:10 / 開演 19:20\nHIRAETH.Tokyo出番 20:15-20:45\nソ
- ロ: 海寧らむ 19:40-19:50 / 青葉咲來 19:50-19:55 / 新愛ニア 19
- :55-20:00\n汐音亜美奈 20:00-20:15（Hajimari project研修生）\n物
- 販 20:50-21:50（全組終演後）\n出演: HIRAETH.Tokyo / 真白ゆい
-  / 風見える / 汐音亜美奈\n料金: 前方S 2\,000円 / 一般A 500
- 円 / 当日各+500円（+1D）\nチケット発売 11/3 22:00〜 https://
- livepocket.jp/e/hiraethvol41\n出典: https://x.com/hiraeth_tokyo/status/2
- 116877933239288288
+DESCRIPTION:💗姫咲: 【公式発表】Hajimari project研修生とし
+ て追加出演・ソロ19:40-19:50（11/13公式X）。本人「19:40~19:
+ 50の時間でソロで出演します」、2曲（iLiFE!「sweet timer」
+ ・HoneyWorks「誇り高きアイドル」）\n開場 19:10 / 開演 19:2
+ 0\nソロ: 真白ゆい 19:20-19:30 / 風見える 19:30-19:40 / 姫咲こ
+ はく 19:40-19:50 / 海寧らむ 19:50-20:00 / 青葉咲來 20:00-20:05 /
+  新愛ニア 20:05-20:10\n汐音亜美奈（卒業生） 20:10-20:25\nHIR
+ AETH.Tokyo出番 20:25-20:55\n物販 21:00-22:00（全組終演後）\n出
+ 演: HIRAETH.Tokyo / 真白ゆい・風見える・姫咲こはく（Hajim
+ ari project研修生） / 汐音亜美奈\n料金: 前方S 2\,000円 / 一
+ 般A 500円 / 当日各+500円（+1D）\nチケット https://livepocket.j
+ p/e/hiraethvol41\n出典: https://x.com/hiraeth_tokyo/status/2121226576998
+ 330722
 LOCATION:BUZZ music LABO Shinjuku
-URL:https://x.com/hiraeth_tokyo/status/2116877933239288288
+URL:https://x.com/hiraeth_tokyo/status/2121226576998330722
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜ライブ予定
-DTSTART;VALUE=DATE:20261121
-DTEND;VALUE=DATE:20261122
-DTSTAMP:20261021T231000Z
+SUMMARY:HIRAETH.Tokyo｜Color Groove
+DTSTART;TZID=Asia/Tokyo:20261121T120000
+DTEND;TZID=Asia/Tokyo:20261121T150000
+DTSTAMP:20261113T230000Z
 UID:hiraeth-17890@hiraeth.tokyo
-DESCRIPTION:イベント: ライブ予定\n種別: ライブ\n時刻は未
- 発表のため終日予定で登録。\n出典: 公式サイト https://h
- iraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%ba%88%e5%ae%9a/\n確度:
-  公式（詳細未発表の予定枠）
-LOCATION:未発表
-URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%ba%88%e5%ae%
- 9a/
+DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 12:00 / 開演 
+ 12:20\nHIRAETH.Tokyo出番・物販: 未定（終了時刻は仮）\n出
+ 演: あ！恋見つけちゃいました...♡ / うえだあむ / Claire
+ ♡Dolls / HIRAETH.Tokyo / プリンセスは眠らないっ！ / 瞬き
+ のネビュラ\n料金: 前方 3\,500円 / 一般 1\,000円 / 当日+500
+ 円（入場時1D必須）\nチケット発売 11/14(土) 21:00 https://t-
+ dv.com/ColorGroove1121\n出典: https://x.com/hiraeth_tokyo/status/2121211
+ 492528013636
+LOCATION:新宿シアターマーキュリー
+URL:https://x.com/hiraeth_tokyo/status/2121211492528013636
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ予定
@@ -242,18 +250,34 @@ URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%ba%88%e5%ae%
  9a-2/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜ライブ予定
-DTSTART;VALUE=DATE:20261123
-DTEND;VALUE=DATE:20261124
-DTSTAMP:20261021T231000Z
+SUMMARY:HIRAETH.Tokyo｜超6MAN LIVE in OSAKA（BEYOND）
+DTSTART;TZID=Asia/Tokyo:20261123T100000
+DTEND;TZID=Asia/Tokyo:20261123T120000
+DTSTAMP:20261113T230000Z
 UID:hiraeth-17894@hiraeth.tokyo
-DESCRIPTION:イベント: ライブ予定\n種別: ライブ\n時刻は未
- 発表のため終日予定で登録。\n出典: 公式サイト https://h
- iraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%ba%88%e5%ae%9a-3/\n確
- 度: 公式（詳細未発表の予定枠）
-LOCATION:未発表
-URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%ba%88%e5%ae%
- 9a-3/
+DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 10:00 / 開演 
+ 10:20\nHIRAETH.Tokyo出番 10:20-10:45\n物販 10:50-12:00（A）\n出演:
+  My Starry Diary / TERIOS / LuNaria / NaNiYoRi / AsteRythm / HIRAETH.Tokyo
+ \n料金: 前方S 3\,000円 / 一般A 2\,000円 / 当日各+1\,000円（
+ 各1D）\nチケット https://t-dv.com/6man_1123_1\n出典: https://x.com
+ /hiraeth_tokyo/status/2121206869448679713
+LOCATION:アメリカ村 BEYOND（大阪）
+URL:https://x.com/hiraeth_tokyo/status/2121206869448679713
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜超6MAN LIVE in OSAKA（FAN J twice）
+DTSTART;TZID=Asia/Tokyo:20261123T151500
+DTEND;TZID=Asia/Tokyo:20261123T171500
+DTSTAMP:20261113T230000Z
+UID:hiraeth-6man1123b@hiraeth.tokyo
+DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 15:15 / 開演 
+ 15:35\nHIRAETH.Tokyo出番 15:35-16:00\n物販 16:05-17:15（A）\n出演:
+  踊れ！神風 / ゼロキョリハーツ / めろでぃらびっと / P
+ eterBack / TERIOS / HIRAETH.Tokyo\n料金: 前方S 3\,000円 / 一般A 2\,
+ 000円 / 当日各+1\,000円（各1D）\nチケット https://t-dv.com/6ma
+ n_1123_2\n出典: https://x.com/hiraeth_tokyo/status/2121202794640318529
+LOCATION:アメリカ村 FAN J twice（大阪）
+URL:https://x.com/hiraeth_tokyo/status/2121202794640318529
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ@中野坂上
