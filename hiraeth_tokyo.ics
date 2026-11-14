@@ -219,6 +219,23 @@ LOCATION:BUZZ music LABO Shinjuku
 URL:https://x.com/hiraeth_tokyo/status/2121226576998330722
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜💗TikTokリレー配信（姫咲こはく担当
+ ）
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20261114T230000Z
+UID:hiraeth-relay-20261119@hiraeth.tokyo
+DESCRIPTION:💗姫咲: 公式11/14のリレー配信スケジュール画
+ 像で「こはく」担当日。本人「ひめは“19日”と“23日
+ ”に配信します！」 https://x.com/himechanluv/status/2121458825668
+ 808894\n7人でつなぐ！全力リレー配信（11/29新体制お披露
+ 目に向けて）\n配信: HIRAETH.Tokyo公式TikTok LIVE（時刻未発
+ 表のため終日予定で登録）\n出典: https://x.com/hiraeth_tokyo/
+ status/2121407772894072956
+LOCATION:HIRAETH.Tokyo公式TikTok LIVE
+URL:https://x.com/hiraeth_tokyo/status/2121407772894072956
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜Color Groove
 DTSTART;TZID=Asia/Tokyo:20261121T120000
 DTEND;TZID=Asia/Tokyo:20261121T150000
@@ -250,34 +267,58 @@ URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%ba%88%e5%ae%
  9a-2/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜💗TikTokリレー配信（姫咲こはく担当
+ ）
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+DTSTAMP:20261114T230000Z
+UID:hiraeth-relay-20261123@hiraeth.tokyo
+DESCRIPTION:💗姫咲: 公式11/14のリレー配信スケジュール画
+ 像で「こはく」担当日。本人「ひめは“19日”と“23日
+ ”に配信します！」 https://x.com/himechanluv/status/2121458825668
+ 808894\n7人でつなぐ！全力リレー配信（11/29新体制お披露
+ 目に向けて）\n配信: HIRAETH.Tokyo公式TikTok LIVE（時刻未発
+ 表のため終日予定で登録）\n出典: https://x.com/hiraeth_tokyo/
+ status/2121407772894072956
+LOCATION:HIRAETH.Tokyo公式TikTok LIVE
+URL:https://x.com/hiraeth_tokyo/status/2121407772894072956
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜超6MAN LIVE in OSAKA（BEYOND）
 DTSTART;TZID=Asia/Tokyo:20261123T100000
 DTEND;TZID=Asia/Tokyo:20261123T120000
-DTSTAMP:20261113T230000Z
+DTSTAMP:20261114T230000Z
 UID:hiraeth-17894@hiraeth.tokyo
-DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 10:00 / 開演 
- 10:20\nHIRAETH.Tokyo出番 10:20-10:45\n物販 10:50-12:00（A）\n出演:
-  My Starry Diary / TERIOS / LuNaria / NaNiYoRi / AsteRythm / HIRAETH.Tokyo
- \n料金: 前方S 3\,000円 / 一般A 2\,000円 / 当日各+1\,000円（
- 各1D）\nチケット https://t-dv.com/6man_1123_1\n出典: https://x.com
- /hiraeth_tokyo/status/2121206869448679713
+DESCRIPTION:💗姫咲: 公式告知に名前なし（この日は本人担
+ 当のTikTokリレー配信日・時間未発表）\n開場 10:00 / 開演
+  10:20\nHIRAETH.Tokyo出番 10:20-10:45\n物販 10:50-12:00（A）\n指名
+ 入場特典: サイン入りチェキ券+撮影券（11/14追加）\n全
+ 通特典（BEYOND→FAN J twice）: 推しからのサイン入り集合
+ デカチェキ\n出演: My Starry Diary / TERIOS / LuNaria / NaNiYoRi / A
+ steRythm / HIRAETH.Tokyo\n料金: 前方S 3\,000円 / 一般A 2\,000円 / 
+ 当日各+1\,000円（各1D）\nチケット https://t-dv.com/6man_1123_1\
+ n出典: https://x.com/hiraeth_tokyo/status/2121410197902291455
 LOCATION:アメリカ村 BEYOND（大阪）
-URL:https://x.com/hiraeth_tokyo/status/2121206869448679713
+URL:https://x.com/hiraeth_tokyo/status/2121410197902291455
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜超6MAN LIVE in OSAKA（FAN J twice）
 DTSTART;TZID=Asia/Tokyo:20261123T151500
 DTEND;TZID=Asia/Tokyo:20261123T171500
-DTSTAMP:20261113T230000Z
+DTSTAMP:20261114T230000Z
 UID:hiraeth-6man1123b@hiraeth.tokyo
-DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 15:15 / 開演 
- 15:35\nHIRAETH.Tokyo出番 15:35-16:00\n物販 16:05-17:15（A）\n出演:
-  踊れ！神風 / ゼロキョリハーツ / めろでぃらびっと / P
- eterBack / TERIOS / HIRAETH.Tokyo\n料金: 前方S 3\,000円 / 一般A 2\,
- 000円 / 当日各+1\,000円（各1D）\nチケット https://t-dv.com/6ma
- n_1123_2\n出典: https://x.com/hiraeth_tokyo/status/2121202794640318529
+DESCRIPTION:💗姫咲: 公式告知に名前なし（この日は本人担
+ 当のTikTokリレー配信日・時間未発表）\n開場 15:15 / 開演
+  15:35\nHIRAETH.Tokyo出番 15:35-16:00\n物販 16:05-17:15（A）\n指名
+ 入場特典: 各メンバー写メ券+30秒トーク延長券（11/14追
+ 加）\n全通特典: 推しからのサイン入り集合デカチェキ
+ （特典会開始から最初の10分で撮影）\n出演: 踊れ！神
+ 風 / ゼロキョリハーツ / めろでぃらびっと / PeterBack / TE
+ RIOS / HIRAETH.Tokyo\n料金: 前方S 3\,000円 / 一般A 2\,000円 / 当
+ 日各+1\,000円（各1D）\nチケット https://t-dv.com/6man_1123_2\n
+ 出典: https://x.com/hiraeth_tokyo/status/2121422872002596991
 LOCATION:アメリカ村 FAN J twice（大阪）
-URL:https://x.com/hiraeth_tokyo/status/2121202794640318529
+URL:https://x.com/hiraeth_tokyo/status/2121422872002596991
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ@中野坂上
@@ -323,33 +364,54 @@ URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e7%a7%
  8b%e8%91%89%e5%8e%9f/
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜TikTokリレー配信（全員配信）
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+DTSTAMP:20261114T230000Z
+UID:hiraeth-relay-20261128@hiraeth.tokyo
+DESCRIPTION:💗姫咲: 7人全員配信（公式リレー配信表で「
+ こはく」も7人の1人）\n11/29新体制お披露目の前日、全
+ 員で配信\n配信: HIRAETH.Tokyo公式TikTok LIVE（時刻未発表の
+ ため終日予定で登録）\n出典: https://x.com/hiraeth_tokyo/status
+ /2121407772894072956
+LOCATION:HIRAETH.Tokyo公式TikTok LIVE
+URL:https://x.com/hiraeth_tokyo/status/2121407772894072956
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜-TOKYO.HAJIMARI.FES- vol.8【HIRAETH.Tokyo新体制
  SP】
 DTSTART;TZID=Asia/Tokyo:20261129T204500
 DTEND;TZID=Asia/Tokyo:20261129T210500
-DTSTAMP:20261112T230000Z
+DTSTAMP:20261114T230000Z
 UID:hiraeth-17898@hiraeth.tokyo
-DESCRIPTION:💗姫咲: 公式告知に名前なし。本人が11/4、こ
- の日の公式告知を引用して「⏱20:45~21:05です！！みんな
- 会いに来てほしいな…久しぶりに会いたいの」と投稿
- （HIRAETH.Tokyoの出番時間と同じ。公式の加入・出演発表
- はまだ） https://x.com/himechanluv/status/2117967992558665870。本人
- が11/8、自作プロフィール画像に「Hajimari project研修生」
- と記載（公式発表ではない） https://x.com/himechanluv/status/2
- 119378266268356900。本人が11/11、返信で「11月29日に中野坂
- 上でお披露目ライブがある」「11月29日に新メンバーお
- 披露目ライブあるアイドル」と投稿（本人発言・公式
- の加入発表はまだ） https://x.com/himechanluv/status/2120429413728
- 932321。本人が11/12、「11月29日中野坂上で待ち合わせし
- ませんか」「11月29日に再デビューするんだ」と投稿（
- 本人発言・公式の加入発表はまだ） https://x.com/himechanluv
- /status/2120865274106884533\n🌟HIRAETH.Tokyo新体制SP（新体制の
- 内容は未発表）\n開場 10:15（告知画像ではOPEN 10:20） / 
- 開演 10:30\nHIRAETH.Tokyo出番 20:45-21:05 / 物販 21:10-22:10\n卒業
- 生 汐音亜美奈もソロで出演 19:05-19:25\n料金: 前方S 3\,500
- 円 / 一般A 2\,500円 / 当日+500円（+1D）\nチケット: https://li
- vepocket.jp/e/tokyohajimarifes8\n出典: https://x.com/hiraeth_tokyo/statu
- s/2117965084173496362
+DESCRIPTION:💗姫咲: 【公式11/14】「いよいよ7人体制お披露
+ 目」と告知し、7人リレー配信の公式スケジュール画像
+ に「こはく」（11/19・11/23担当）が載った（正規加入の
+ 明記・個別出番の発表はまだ） https://x.com/hiraeth_tokyo/sta
+ tus/2121407772894072956。本人11/14「新体制に向けて全力で頑
+ 張るぞ」 https://x.com/himechanluv/status/2121458825668808894。以前
+ の経緯: 本人が11/4、この日の公式告知を引用して「⏱20
+ :45~21:05です！！みんな会いに来てほしいな…久しぶり
+ に会いたいの」と投稿（HIRAETH.Tokyoの出番時間と同じ。
+ 公式の加入・出演発表はまだ） https://x.com/himechanluv/statu
+ s/2117967992558665870。本人が11/8、自作プロフィール画像に
+ 「Hajimari project研修生」と記載（公式発表ではない） htt
+ ps://x.com/himechanluv/status/2119378266268356900。本人が11/11、返
+ 信で「11月29日に中野坂上でお披露目ライブがある」「1
+ 1月29日に新メンバーお披露目ライブあるアイドル」と
+ 投稿（本人発言・公式の加入発表はまだ） https://x.com/hi
+ mechanluv/status/2120429413728932321。本人が11/12、「11月29日中
+ 野坂上で待ち合わせしませんか」「11月29日に再デビュ
+ ーするんだ」と投稿（本人発言・公式の加入発表はま
+ だ） https://x.com/himechanluv/status/2120865274106884533\n🌟HIRAETH.T
+ okyo新体制SP: 公式11/14「7人体制お披露目」（リレー配信
+ 表の7人: さき・にあ・らむ・える・こはく・ゆい・り
+ あ）\n開場 10:15（告知画像ではOPEN 10:20） / 開演 10:30\nHIR
+ AETH.Tokyo出番 20:45-21:05 / 物販 21:10-22:10\n卒業生 汐音亜美
+ 奈もソロで出演 19:05-19:25\n料金: 前方S 3\,500円 / 一般A 2\,
+ 500円 / 当日+500円（+1D）\nチケット: https://livepocket.jp/e/tok
+ yohajimarifes8\n出典: https://x.com/hiraeth_tokyo/status/211796508417349
+ 6362
 LOCATION:中野坂上S.U.B
 URL:https://x.com/hiraeth_tokyo/status/2117965084173496362
 END:VEVENT
@@ -366,6 +428,51 @@ DESCRIPTION:イベント: ライブ@新宿\n種別: ライブ\n時刻は未
 LOCATION:新宿（会場名未発表）
 URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e6%96%b0%e5%ae%
  bf-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜ライブ＠五反田
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+DTSTAMP:20261114T230000Z
+UID:hiraeth-site-20261201@hiraeth.tokyo
+DESCRIPTION:イベント: ライブ＠五反田\n種別: ライブ\n時刻
+ は未発表のため終日予定で登録。\n出典: 公式サイト htt
+ ps://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e4%ba%94%e5%
+ 8f%8d%e7%94%b0-4/\n確度: 公式（詳細未発表の予定枠・2026-11-
+ 15確認）\n場所: 五反田（会場名未発表）
+LOCATION:五反田（会場名未発表）
+URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e4%ba%
+ 94%e5%8f%8d%e7%94%b0-4/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜ライブ＠大塚
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+DTSTAMP:20261114T230000Z
+UID:hiraeth-site-20261203@hiraeth.tokyo
+DESCRIPTION:イベント: ライブ＠大塚\n種別: ライブ\n時刻は
+ 未発表のため終日予定で登録。\n出典: 公式サイト https:
+ //hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e5%a4%a7%e5%a1%
+ 9a/\n確度: 公式（詳細未発表の予定枠・2026-11-15確認）\n
+ 場所: 大塚（会場名未発表）
+LOCATION:大塚（会場名未発表）
+URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e5%a4%
+ a7%e5%a1%9a/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜ライブ＠新宿
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+DTSTAMP:20261114T230000Z
+UID:hiraeth-site-20261205@hiraeth.tokyo
+DESCRIPTION:イベント: ライブ＠新宿\n種別: ライブ\n時刻は
+ 未発表のため終日予定で登録。\n出典: 公式サイト https:
+ //hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e6%96%b0%e5%ae%
+ bf-4/\n確度: 公式（詳細未発表の予定枠・2026-11-15確認）\
+ n場所: 新宿（会場名未発表）
+LOCATION:新宿（会場名未発表）
+URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e6%96%
+ b0%e5%ae%bf-4/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜青葉咲來 生誕祭『19さい、もっと♡も
@@ -402,18 +509,19 @@ URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e6%96%
  b0%e5%ae%bf-6/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜ライブ予定
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261212
-DTSTAMP:20261021T231000Z
-UID:hiraeth-17902@hiraeth.tokyo
-DESCRIPTION:イベント: ライブ予定\n種別: ライブ\n時刻は未
- 発表のため終日予定で登録。\n出典: 公式サイト https://h
- iraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%ba%88%e5%ae%9a-4/\n確
- 度: 公式（詳細未発表の予定枠）
-LOCATION:未発表
-URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%ba%88%e5%ae%
- 9a-4/
+SUMMARY:HIRAETH.Tokyo｜ライブ＠新宿
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+DTSTAMP:20261114T230000Z
+UID:hiraeth-site-20261210@hiraeth.tokyo
+DESCRIPTION:イベント: ライブ＠新宿\n種別: ライブ\n時刻は
+ 未発表のため終日予定で登録。\n出典: 公式サイト https:
+ //hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e6%96%b0%e5%ae%
+ bf-5/\n確度: 公式（詳細未発表の予定枠・2026-11-15確認）\
+ n場所: 新宿（会場名未発表）
+LOCATION:新宿（会場名未発表）
+URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e6%96%
+ b0%e5%ae%bf-5/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ予定
@@ -430,16 +538,17 @@ URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%ba%88%e5%ae%
  9a-5/
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜ライブ予定
+SUMMARY:HIRAETH.Tokyo｜ライブ＠名古屋
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
-DTSTAMP:20261021T231000Z
+DTSTAMP:20261114T230000Z
 UID:hiraeth-17906@hiraeth.tokyo
-DESCRIPTION:イベント: ライブ予定\n種別: ライブ\n時刻は未
- 発表のため終日予定で登録。\n出典: 公式サイト https://h
- iraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%ba%88%e5%ae%9a-6/\n確
- 度: 公式（詳細未発表の予定枠）
-LOCATION:未発表
+DESCRIPTION:イベント: ライブ＠名古屋\n場所: 名古屋（会場
+ 名未発表）\n種別: ライブ\n時刻は未発表のため終日予
+ 定で登録。\n出典: 公式サイト https://hiraeth.tokyo/event/%e3%8
+ 3%a9%e3%82%a4%e3%83%96%e4%ba%88%e5%ae%9a-6/\n確度: 公式（詳細未発
+ 表の予定枠）
+LOCATION:名古屋（会場名未発表）
 URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%ba%88%e5%ae%
  9a-6/
 END:VEVENT
@@ -458,6 +567,21 @@ LOCATION:aube shibuya
 URL:https://x.com/hiraeth_tokyo/status/2119777033706160417
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜ライブ＠新宿
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+DTSTAMP:20261114T230000Z
+UID:hiraeth-site-20261215@hiraeth.tokyo
+DESCRIPTION:イベント: ライブ＠新宿\n種別: ライブ\n時刻は
+ 未発表のため終日予定で登録。\n出典: 公式サイト https:
+ //hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e6%96%b0%e5%ae%
+ bf-7/\n確度: 公式（詳細未発表の予定枠・2026-11-15確認）\
+ n場所: 新宿（会場名未発表）
+LOCATION:新宿（会場名未発表）
+URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e6%96%
+ b0%e5%ae%bf-7/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ＠大塚
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
@@ -470,6 +594,66 @@ DESCRIPTION:イベント: ライブ＠大塚\n種別: ライブ\n時刻は
 LOCATION:大塚（会場名未発表）
 URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e5%a4%
  a7%e5%a1%9a-5/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜ライブ＠新宿
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+DTSTAMP:20261114T230000Z
+UID:hiraeth-site-20261221@hiraeth.tokyo
+DESCRIPTION:イベント: ライブ＠新宿\n種別: ライブ\n時刻は
+ 未発表のため終日予定で登録。\n出典: 公式サイト https:
+ //hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e6%96%b0%e5%ae%
+ bf-8/\n確度: 公式（詳細未発表の予定枠・2026-11-15確認）\
+ n場所: 新宿（会場名未発表）
+LOCATION:新宿（会場名未発表）
+URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e6%96%
+ b0%e5%ae%bf-8/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜ライブ＠大塚
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+DTSTAMP:20261114T230000Z
+UID:hiraeth-site-20261227@hiraeth.tokyo
+DESCRIPTION:イベント: ライブ＠大塚\n種別: ライブ\n時刻は
+ 未発表のため終日予定で登録。\n出典: 公式サイト https:
+ //hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e5%a4%a7%e5%a1%
+ 9a-2/\n確度: 公式（詳細未発表の予定枠・2026-11-15確認）\
+ n場所: 大塚（会場名未発表）
+LOCATION:大塚（会場名未発表）
+URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e5%a4%
+ a7%e5%a1%9a-2/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜ライブ＠大塚
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+DTSTAMP:20261114T230000Z
+UID:hiraeth-site-20261230@hiraeth.tokyo
+DESCRIPTION:イベント: ライブ＠大塚\n種別: ライブ\n時刻は
+ 未発表のため終日予定で登録。\n出典: 公式サイト https:
+ //hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e5%a4%a7%e5%a1%
+ 9a-3/\n確度: 公式（詳細未発表の予定枠・2026-11-15確認）\
+ n場所: 大塚（会場名未発表）
+LOCATION:大塚（会場名未発表）
+URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e5%a4%
+ a7%e5%a1%9a-3/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜ライブ＠渋谷
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+DTSTAMP:20261114T230000Z
+UID:hiraeth-site-20261231@hiraeth.tokyo
+DESCRIPTION:イベント: ライブ＠渋谷\n種別: ライブ\n時刻は
+ 未発表のため終日予定で登録。\n出典: 公式サイト https:
+ //hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e6%b8%8b%e8%b0%
+ b7-5/\n確度: 公式（詳細未発表の予定枠・2026-11-15確認）\
+ n場所: 渋谷（会場名未発表）
+LOCATION:渋谷（会場名未発表）
+URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e6%b8%
+ 8b%e8%b0%b7-5/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜定期ライブ
@@ -485,5 +669,35 @@ DESCRIPTION:イベント: HIRAETH.Tokyo定期ライブ\n種別: ライブ\n
 LOCATION:未発表
 URL:https://hiraeth.tokyo/event/hiraeth-tokyo%e5%ae%9a%e6%9c%9f%e3%83%a9%e3
  %82%a4%e3%83%96/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜ライブ＠GOTANDA BLAZE
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+DTSTAMP:20261114T230000Z
+UID:hiraeth-site-20270420@hiraeth.tokyo
+DESCRIPTION:イベント: ライブ＠GOTANDA BLAZE\n種別: ライブ\n時
+ 刻は未発表のため終日予定で登録。\n出典: 公式サイト 
+ https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0gotanda-bl
+ aze/\n確度: 公式（詳細未発表の予定枠・2026-11-15確認）\n
+ 場所: GOTANDA BLAZE
+LOCATION:GOTANDA BLAZE
+URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0gotanda
+ -blaze/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜ライブ＠恵比寿
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+DTSTAMP:20261114T230000Z
+UID:hiraeth-site-20270819@hiraeth.tokyo
+DESCRIPTION:イベント: ライブ＠恵比寿\n種別: ライブ\n時刻
+ は未発表のため終日予定で登録。\n出典: 公式サイト htt
+ ps://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e6%81%b5%e6%
+ af%94%e5%af%bf/\n確度: 公式（詳細未発表の予定枠・2026-11-15
+ 確認）\n場所: 恵比寿（会場名未発表）
+LOCATION:恵比寿（会場名未発表）
+URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e6%81%
+ b5%e6%af%94%e5%af%bf/
 END:VEVENT
 END:VCALENDAR
