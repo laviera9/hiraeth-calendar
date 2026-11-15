@@ -219,19 +219,36 @@ LOCATION:BUZZ music LABO Shinjuku
 URL:https://x.com/hiraeth_tokyo/status/2121226576998330722
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜TikTokリレー配信（海寧らむ担当）
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+DTSTAMP:20261115T230000Z
+UID:hiraeth-relay-ramu-20261116@hiraeth.tokyo
+DESCRIPTION:公式11/14のリレー配信スケジュール画像で「ら
+ む」担当日（11/16・11/24）。本人11/15「あしたはリレー
+ 配信らむの番！」 https://x.com/ramu_hiraeth/status/212198874061694
+ 5808\n配信: HIRAETH.Tokyo公式TikTok LIVE（時刻未発表のため終
+ 日予定で登録）\n出典: https://x.com/hiraeth_tokyo/status/21214077
+ 72894072956
+LOCATION:HIRAETH.Tokyo公式TikTok LIVE
+URL:https://x.com/ramu_hiraeth/status/2121988740616945808
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜💗TikTokリレー配信（姫咲こはく担当
  ）
-DTSTART;VALUE=DATE:20261119
-DTEND;VALUE=DATE:20261120
-DTSTAMP:20261114T230000Z
+DTSTART;TZID=Asia/Tokyo:20261119T210000
+DTEND;TZID=Asia/Tokyo:20261119T220000
+DTSTAMP:20261115T230000Z
 UID:hiraeth-relay-20261119@hiraeth.tokyo
 DESCRIPTION:💗姫咲: 公式11/14のリレー配信スケジュール画
  像で「こはく」担当日。本人「ひめは“19日”と“23日
  ”に配信します！」 https://x.com/himechanluv/status/2121458825668
- 808894\n7人でつなぐ！全力リレー配信（11/29新体制お披露
- 目に向けて）\n配信: HIRAETH.Tokyo公式TikTok LIVE（時刻未発
- 表のため終日予定で登録）\n出典: https://x.com/hiraeth_tokyo/
- status/2121407772894072956
+ 808894\n時間: 本人11/15の配信予定告知で「19日 21:00~22:00（
+ グループ公式TikTok）」 https://x.com/himechanluv/status/2121968902
+ 519558169（同日8:00~はSHOWROOM配信）\n7人でつなぐ！全力リ
+ レー配信（11/29新体制お披露目に向けて）\n配信: HIRAETH.
+ Tokyo公式TikTok LIVE\n出典: https://x.com/hiraeth_tokyo/status/2121407
+ 772894072956
 LOCATION:HIRAETH.Tokyo公式TikTok LIVE
 URL:https://x.com/hiraeth_tokyo/status/2121407772894072956
 END:VEVENT
@@ -253,18 +270,24 @@ LOCATION:新宿シアターマーキュリー
 URL:https://x.com/hiraeth_tokyo/status/2121211492528013636
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜ライブ予定
-DTSTART;VALUE=DATE:20261122
-DTEND;VALUE=DATE:20261123
-DTSTAMP:20261021T231000Z
+SUMMARY:HIRAETH.Tokyo｜Idol PiT GirlsRush
+DTSTART;TZID=Asia/Tokyo:20261122T164500
+DTEND;TZID=Asia/Tokyo:20261122T210000
+DTSTAMP:20261115T230000Z
 UID:hiraeth-17892@hiraeth.tokyo
-DESCRIPTION:イベント: ライブ予定\n種別: ライブ\n時刻は未
- 発表のため終日予定で登録。\n出典: 公式サイト https://h
- iraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%ba%88%e5%ae%9a-2/\n確
- 度: 公式（詳細未発表の予定枠）
-LOCATION:未発表
-URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%ba%88%e5%ae%
- 9a-2/
+DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 16:45 / 開演 
+ 17:00（変更の場合あり）\nHIRAETH.Tokyo出番・物販: 未定\n
+ 料金: 前方S 3\,500円（女性2\,000円） / 後方A 2\,000円（女
+ 性1\,000円） / 当日各+1\,000円（各1D 600円）・再入場可\n
+ チケ発 11/15 19:00\n出演: アイスクリーム夢少女 / あもる
+ てぃえ / ATLEPY / ヴィランの掟 / 傾奇隊 / 気まぐれモン
+ スター / Krays / ココモノローグ / 終幕劇場 / 青春のフロ
+ ンティア / 天使に恋してっ♡ / 透明な栞 / BANZAI JAPAN / HI
+ RAETH.Tokyo / MEMORI / WONDARIA\nチケット: https://tiget.net/events/53
+ 1437\n出典: https://x.com/hiraeth_tokyo/status/2121906054615502898（終
+ 了時刻は未発表のため仮）
+LOCATION:代々木ミューズホール
+URL:https://x.com/hiraeth_tokyo/status/2121906054615502898
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜💗TikTokリレー配信（姫咲こはく担当
@@ -321,18 +344,41 @@ LOCATION:アメリカ村 FAN J twice（大阪）
 URL:https://x.com/hiraeth_tokyo/status/2121422872002596991
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜ライブ@中野坂上
-DTSTART;VALUE=DATE:20261126
-DTEND;VALUE=DATE:20261127
-DTSTAMP:20261021T231000Z
+SUMMARY:HIRAETH.Tokyo｜TikTokリレー配信（海寧らむ担当）
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+DTSTAMP:20261115T230000Z
+UID:hiraeth-relay-ramu-20261124@hiraeth.tokyo
+DESCRIPTION:公式11/14のリレー配信スケジュール画像で「ら
+ む」担当日（11/16・11/24）。\n配信: HIRAETH.Tokyo公式TikTok L
+ IVE（時刻未発表のため終日予定で登録）\n出典: https://x.
+ com/hiraeth_tokyo/status/2121407772894072956
+LOCATION:HIRAETH.Tokyo公式TikTok LIVE
+URL:https://x.com/hiraeth_tokyo/status/2121407772894072956
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜横Fes-ヨコフェス-SOLO-（メンバーソロ
+ ／海寧らむ18:30）
+DTSTART;TZID=Asia/Tokyo:20261126T165500
+DTEND;TZID=Asia/Tokyo:20261126T220000
+DTSTAMP:20261115T230000Z
 UID:hiraeth-17896@hiraeth.tokyo
-DESCRIPTION:イベント: ライブ@中野坂上\n種別: ライブ\n時刻
- は未発表のため終日予定で登録。\n出典: 公式サイト htt
- ps://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%b8%ad%e9%87%8e%e5%
- 9d%82%e4%b8%8a-2/\n確度: 公式（詳細未発表の予定枠）
-LOCATION:中野坂上（会場名未発表）
-URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e4%b8%ad%e9%87%
- 8e%e5%9d%82%e4%b8%8a-2/
+DESCRIPTION:💗姫咲: 公式告知に名前なし（出演者11名に含
+ まれず）\n開場 16:55 / 開演 17:10\nHIRAETH.Tokyoメンバーのソ
+ ロ出番: 稀月莉愛 17:10-17:30 / 青葉咲來 17:30-17:50 / 海寧ら
+ む 18:30-18:50 / 新愛ニア 20:15-20:35\n物販: 稀月莉愛・青葉
+ 咲來 17:55-18:55（A） / 海寧らむ 18:55-19:55（A） / 新愛ニア
+  21:00-22:00（終演後特典会）\n料金: 前方S 3\,500円 / 一般A 
+ 2\,000円 / 当日各+1\,000円（1D別）\nチケ発 11/15 21:00\n出演:
+  島早ほの花（TERIOS） / 九りこ（TERIOS） / 八女蘭れん（
+ √REAL） / 愛園みぃさ（踊れ！神風） / 中村菫 / 小鈴い
+ ぬ（きゅんぱに！） / 芦谷凜（My Starry Diary） / 新愛ニ
+ ア（My Starry Diary/HIRAETH.Tokyo） / 稀月莉愛・海寧らむ・青
+ 葉咲來（HIRAETH.Tokyo）\nチケット: https://ticketdive.com/event/y
+ okofes_1126\n出典: https://x.com/hiraeth_tokyo/status/212189642101645754
+ 9
+LOCATION:中野坂上S.U.B
+URL:https://x.com/hiraeth_tokyo/status/2121896421016457549
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ@新宿
