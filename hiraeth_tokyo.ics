@@ -271,23 +271,24 @@ URL:https://x.com/hiraeth_tokyo/status/2121211492528013636
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜Idol PiT GirlsRush
-DTSTART;TZID=Asia/Tokyo:20261122T164500
-DTEND;TZID=Asia/Tokyo:20261122T210000
-DTSTAMP:20261115T230000Z
+DTSTART;TZID=Asia/Tokyo:20261122T171500
+DTEND;TZID=Asia/Tokyo:20261122T183500
+DTSTAMP:20261116T230000Z
 UID:hiraeth-17892@hiraeth.tokyo
 DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 16:45 / 開演 
- 17:00（変更の場合あり）\nHIRAETH.Tokyo出番・物販: 未定\n
- 料金: 前方S 3\,500円（女性2\,000円） / 後方A 2\,000円（女
- 性1\,000円） / 当日各+1\,000円（各1D 600円）・再入場可\n
- チケ発 11/15 19:00\n出演: アイスクリーム夢少女 / あもる
- てぃえ / ATLEPY / ヴィランの掟 / 傾奇隊 / 気まぐれモン
- スター / Krays / ココモノローグ / 終幕劇場 / 青春のフロ
- ンティア / 天使に恋してっ♡ / 透明な栞 / BANZAI JAPAN / HI
- RAETH.Tokyo / MEMORI / WONDARIA\nチケット: https://tiget.net/events/53
- 1437\n出典: https://x.com/hiraeth_tokyo/status/2121906054615502898（終
- 了時刻は未発表のため仮）
+ 17:00（変更の場合あり）\nHIRAETH.Tokyo出番 17:15-17:30 / 物販
+  17:35-18:35（B）（11/16タイムテーブル更新）\n料金: 前方S
+  3\,500円（女性2\,000円） / 後方A 2\,000円（女性1\,000円） /
+  当日各+1\,000円（各1D 600円）・再入場可\nチケ発 11/15 19:
+ 00\n出演: アイスクリーム夢少女 / あもるてぃえ / ATLEPY /
+  ヴィランの掟 / 傾奇隊 / 気まぐれモンスター / Krays / 
+ ココモノローグ / 終幕劇場 / 青春のフロンティア / 天
+ 使に恋してっ♡ / 透明な栞 / BANZAI JAPAN / HIRAETH.Tokyo / MEMO
+ RI / WONDARIA\nチケット: https://tiget.net/events/531437\n出典: http
+ s://x.com/hiraeth_tokyo/status/2122313745053413881（前回告知 https://
+ x.com/hiraeth_tokyo/status/2121906054615502898）
 LOCATION:代々木ミューズホール
-URL:https://x.com/hiraeth_tokyo/status/2121906054615502898
+URL:https://x.com/hiraeth_tokyo/status/2122313745053413881
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜💗TikTokリレー配信（姫咲こはく担当
@@ -355,6 +356,22 @@ DESCRIPTION:公式11/14のリレー配信スケジュール画像で「ら
  com/hiraeth_tokyo/status/2121407772894072956
 LOCATION:HIRAETH.Tokyo公式TikTok LIVE
 URL:https://x.com/hiraeth_tokyo/status/2121407772894072956
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜MERRY PARTY
+DTSTART;TZID=Asia/Tokyo:20261125T183500
+DTEND;TZID=Asia/Tokyo:20261125T201500
+DTSTAMP:20261116T230000Z
+UID:hiraeth-meripa-20261125@hiraeth.tokyo
+DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 18:15 / 開演 
+ 18:35\nHIRAETH.Tokyo出番 18:35-19:00 / 物販 19:15-20:15（並行A）\n
+ 料金: 前方 2\,500円 / 通常 1\,500円 / 当日+500円（D代別）\n
+ チケット https://ticketdive.com/event/MERIPA_1125\n出演: 有頂天
+ メリー！ / ぶっとび！パンデミック / 空想ロマンス / BA
+ NKURUWASE!! / LOOPARADE / Lumiétoile / HIRAETH.Tokyo\n出典: https://x.c
+ om/hiraeth_tokyo/status/2122313746299150694
+LOCATION:aube shibuya
+URL:https://x.com/hiraeth_tokyo/status/2122313746299150694
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜横Fes-ヨコフェス-SOLO-（メンバーソロ
@@ -613,19 +630,21 @@ LOCATION:aube shibuya
 URL:https://x.com/hiraeth_tokyo/status/2119777033706160417
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜ライブ＠新宿
-DTSTART;VALUE=DATE:20261215
-DTEND;VALUE=DATE:20261216
-DTSTAMP:20261114T230000Z
-UID:hiraeth-site-20261215@hiraeth.tokyo
-DESCRIPTION:イベント: ライブ＠新宿\n種別: ライブ\n時刻は
- 未発表のため終日予定で登録。\n出典: 公式サイト https:
- //hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e6%96%b0%e5%ae%
- bf-7/\n確度: 公式（詳細未発表の予定枠・2026-11-15確認）\
- n場所: 新宿（会場名未発表）
-LOCATION:新宿（会場名未発表）
-URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e6%96%
- b0%e5%ae%bf-7/
+SUMMARY:HIRAETH.Tokyo｜BABBLY BUBBLY 和音ふれあ生誕LIVE2026
+DTSTART;TZID=Asia/Tokyo:20261215T173000
+DTEND;TZID=Asia/Tokyo:20261215T220000
+DTSTAMP:20261116T230000Z
+UID:hiraeth-bbohbl-20261215@hiraeth.tokyo
+DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 17:30 / 開演 
+ 18:00\nHIRAETH.Tokyo出番・物販: 未定\n料金: S(前方) 3\,500円 /
+  一般(後方) 2\,500円 / 当日 S 4\,500円・一般 3\,500円（各入
+ 場・再入場時1D別）\nチケット発売 11/16 20:00〜 https://t-dv
+ .com/bbohbl2026\n出演: BABBLY BUBBLY / ふれあ生誕コンテンツ / 
+ BANKURUWASE!! / HIRAETH.Tokyo / PrettyPretty / Margaret / ミヤコワス
+ レ / MYUZAI\n出典: https://x.com/hiraeth_tokyo/status/21222746155486905
+ 03（出番未定のため開場〜22:00で仮登録）
+LOCATION:BUZZ music LABO Shinjuku
+URL:https://x.com/hiraeth_tokyo/status/2122274615548690503
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ＠大塚
