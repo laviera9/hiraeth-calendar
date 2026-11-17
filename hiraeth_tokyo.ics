@@ -398,19 +398,21 @@ LOCATION:中野坂上S.U.B
 URL:https://x.com/hiraeth_tokyo/status/2121896421016457549
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜ライブ@新宿
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261128
-DTSTAMP:20261107T225500Z
+SUMMARY:HIRAETH.Tokyo｜Color Groove＠シアターマーキュリー新宿
+DTSTART;TZID=Asia/Tokyo:20261127T192000
+DTEND;TZID=Asia/Tokyo:20261127T205000
+DTSTAMP:20261117T230000Z
 UID:hiraeth-20261127-shinjuku@hiraeth.tokyo
-DESCRIPTION:イベント: ライブ@新宿\n種別: ライブ\n時刻は未
- 発表のため終日予定で登録（2026-11-08に公式サイトへ追
- 加を確認）。\n出典: 公式サイト https://hiraeth.tokyo/event/%e
- 3%83%a9%e3%82%a4%e3%83%96%e6%96%b0%e5%ae%bf-2/\n確度: 公式（詳細未
- 発表の予定枠）
-LOCATION:新宿（会場名未発表）
-URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%e6%96%b0%e5%ae%
- bf-2/
+DESCRIPTION:💗姫咲: 公式告知に名前なし（本文・画像とも
+ ）\n開場 17:45 / 開演 18:00\nHIRAETH.Tokyo出番 19:20-19:40 / 物
+ 販 19:50-20:50（B）\n料金: 前方 3\,500円 / 一般 1\,500円 / 当
+ 日+500円（入場時1D必須）\nチケ発 11/18 21:00\n出演: ソラ
+ ネルカンパニー / HIRAETH.Tokyo / Floomie's / まぶだちゅ！ / 
+ May Love Rouge / LuNaria / Remi Belle\nチケット: https://t-dv.com/Col
+ orGroove1127\n出典: https://x.com/hiraeth_tokyo/status/2122661031701000
+ 235\n確度: 公式（11/17告知・タイムテーブル画像）
+LOCATION:シアターマーキュリー新宿
+URL:https://x.com/hiraeth_tokyo/status/2122661031701000235
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ＠秋葉原
