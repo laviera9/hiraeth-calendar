@@ -253,21 +253,42 @@ LOCATION:HIRAETH.Tokyo公式TikTok LIVE
 URL:https://x.com/hiraeth_tokyo/status/2121407772894072956
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:HIRAETH.Tokyo｜Tune JACK vol.9（HIRAETH.Tokyo×汐音亜美奈）
+DTSTART;TZID=Asia/Tokyo:20261121T110000
+DTEND;TZID=Asia/Tokyo:20261121T122500
+DTSTAMP:20261118T230000Z
+UID:hiraeth-tunejack9-20261121@hiraeth.tokyo
+DESCRIPTION:💗姫咲: 公式告知に名前なし（本文・画像とも
+ ）\n開場 10:25 / 開演 10:40\nHIRAETH.Tokyo出番 11:00-11:20（出演
+ 表記「HIRAETH.Tokyo×汐音亜美奈」、汐音亜美奈は卒業生
+ ）\n物販 11:25-12:25（B）\n出演: 擬人化にゃんた / HIRAETH.To
+ kyo×汐音亜美奈 / KimiTrial / SQRRL / 超ねこぱーてぃー / Mete
+ orite of the huge ICE / 戦国アニマル極楽浄土 / BrainBeat / キ
+ ミと青春をもっと / Melo＊Traum / HALO PALLETE / 折れないし
+ っぽ\n料金: 前方S 4\,000円 / 一般A 2\,500円 / 当日各+1\,000
+ 円（各1D）\nチケット https://t-dv.com/TuneJACKvol9（前売は11/2
+ 0 23:59まで）\n出典: https://x.com/hiraeth_tokyo/status/2123015867051
+ 176072
+LOCATION:中野坂上S.U.B Tokyo
+URL:https://x.com/hiraeth_tokyo/status/2123015867051176072
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜Color Groove
-DTSTART;TZID=Asia/Tokyo:20261121T120000
-DTEND;TZID=Asia/Tokyo:20261121T150000
-DTSTAMP:20261113T230000Z
+DTSTART;TZID=Asia/Tokyo:20261121T131500
+DTEND;TZID=Asia/Tokyo:20261121T151500
+DTSTAMP:20261118T230000Z
 UID:hiraeth-17890@hiraeth.tokyo
-DESCRIPTION:💗姫咲: 公式告知に名前なし\n開場 12:00 / 開演 
- 12:20\nHIRAETH.Tokyo出番・物販: 未定（終了時刻は仮）\n出
- 演: あ！恋見つけちゃいました...♡ / うえだあむ / Claire
- ♡Dolls / HIRAETH.Tokyo / プリンセスは眠らないっ！ / 瞬き
- のネビュラ\n料金: 前方 3\,500円 / 一般 1\,000円 / 当日+500
- 円（入場時1D必須）\nチケット発売 11/14(土) 21:00 https://t-
- dv.com/ColorGroove1121\n出典: https://x.com/hiraeth_tokyo/status/2121211
- 492528013636
-LOCATION:新宿シアターマーキュリー
-URL:https://x.com/hiraeth_tokyo/status/2121211492528013636
+DESCRIPTION:💗姫咲: 公式告知に名前なし（本文・画像とも
+ ）\n開場 10:30 / 開演 10:50（11/18再告知で変更・旧12:00/12:2
+ 0）\nHIRAETH.Tokyo出番 13:15-13:40\n物販 14:15-15:15（終演後A）\
+ n出演: うえだあむ / 純真アムレット / プリンセスは眠
+ らないっ！ / 瞬きのネビュラ / あ！恋見つけちゃいま
+ した...♡ / Claire♡Dolls / HIRAETH.Tokyo / 天使突抜二読ミ\n料
+ 金: 前方 3\,500円 / 一般 1\,000円 / 当日+500円（入場時1D必
+ 須）\nチケット https://t-dv.com/ColorGroove1121\n出典: https://x.c
+ om/hiraeth_tokyo/status/2123002617802764464
+LOCATION:シアターマーキュリー新宿
+URL:https://x.com/hiraeth_tokyo/status/2123002617802764464
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜Idol PiT GirlsRush
