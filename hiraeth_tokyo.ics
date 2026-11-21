@@ -297,8 +297,7 @@ DESCRIPTION:💗姫咲: 公式告知に名前なし（本文・画像とも
  ）\n開場 11:00 / 開演 11:15（11/20 22:00公式再告知の本文・
  告知画像。11/20 19:10の2回し告知本文は「開場12:00/開演12
  :20」、11/18・11/19画像は10:30/10:50と表記が変わっていま
- す）
-HIRAETH.Tokyo出番 13:15-13:40\n物販 14:15-15:15（11/20再告
+ す）\nHIRAETH.Tokyo出番 13:15-13:40\n物販 14:15-15:15（11/20再告
  知はC、2回し告知・稀月莉愛告知はA）\n2回し特典: サイ
  ン入り集合デカチェキ\n新愛ニアはお休み（11/20公式）\
  n指名入場特典: 写メ券×2 + 30秒トーク延長券（11/19追加
@@ -317,7 +316,7 @@ BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜Idol PiT GirlsRush
 DTSTART;TZID=Asia/Tokyo:20261122T171500
 DTEND;TZID=Asia/Tokyo:20261122T183500
-DTSTAMP:20261119T230000Z
+DTSTAMP:20261121T230000Z
 UID:hiraeth-17892@hiraeth.tokyo
 DESCRIPTION:💗姫咲: 公式告知に名前なし（本文・画像とも
  ）\n開場 16:45 / 開演 17:00（変更の場合あり）\nHIRAETH.Tokyo
@@ -331,7 +330,10 @@ DESCRIPTION:💗姫咲: 公式告知に名前なし（本文・画像とも
  透明な栞 / BANZAI JAPAN / HIRAETH.Tokyo / MEMORI / WONDARIA\nチケッ
  ト: https://tiget.net/events/531437\n出典: https://x.com/hiraeth_tokyo/
  status/2123400908877021582（前回告知 https://x.com/hiraeth_tokyo/stat
- us/2122313745053413881）
+ us/2122313745053413881）\n出演メンバー: 稀月莉愛本人11/21「
+ 明日の代々木での3人ライブ」（https://x.com/RIA_HIRAETH/statu
+ s/2124097335299125364）。新愛ニアは同日マイスタ大阪遠征
+ （本人告知）。公式の出演メンバー告知は未確認
 LOCATION:代々木ミューズホール
 URL:https://x.com/hiraeth_tokyo/status/2123400908877021582
 END:VEVENT
