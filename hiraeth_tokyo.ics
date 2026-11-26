@@ -546,21 +546,22 @@ LOCATION:中野坂上S.U.B
 URL:https://x.com/hiraeth_tokyo/status/2117965084173496362
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜「JAPAN IDOL SUPER LIVE」新宿摩天楼☆怪
- 獣アンコール編＠新宿ReNY
-DTSTART;TZID=Asia/Tokyo:20261130T153500
-DTEND;TZID=Asia/Tokyo:20261130T165500
-DTSTAMP:20261119T230000Z
+SUMMARY:HIRAETH.Tokyo｜「JAPAN IDOL SUPER LIVE」新宿摩天楼☆怪獣
+ アンコール編＠新宿ReNY
+DTSTART;TZID=Asia/Tokyo:20261130T161500
+DTEND;TZID=Asia/Tokyo:20261130T173500
+DTSTAMP:20261126T230000Z
 UID:hiraeth-17900@hiraeth.tokyo
-DESCRIPTION:💗姫咲: 公式告知に名前なし（本文・画像と
- も）\n開場 11:20 / 開演 11:45（予定）\nHIRAETH.Tokyo出番 15:3
- 5-15:55\n物販 16:05-16:55（C）\n料金: 前方優先 5\,000円 / 一
- 般 3\,000円（各D別）・当日前方5\,500円/一般3\,500円・開
- 演までの入場で500円OFF\nチケ発 11/19 22:00 https://t-dv.com/JA
- PANIDOLSUPERLIVE2026ShinjukuReNY\n出演: 全30組（順不同）\n出典
- : https://x.com/hiraeth_tokyo/status/2123378253633106009
+DESCRIPTION:💗姫咲: 公式告知に名前なし（11/26再告知の本
+ 文・画像とも）\n開場 12:00 / 開演 12:15（予定）\nHIRAETH.To
+ kyo出番 16:15-16:35（11/26公式「出演時間変更」・旧15:35-15:
+ 55）\n物販 16:45-17:35（A）\n料金: 前方優先 5\,000円 / 一般 
+ 3\,000円（各D別）・当日前方5\,500円/一般3\,500円・開演ま
+ での入場で500円OFF\nチケ発 11/19 22:00 https://t-dv.com/JAPANIDOL
+ SUPERLIVE2026ShinjukuReNY\n出演: 全28組\n出典: https://x.com/hiraeth
+ _tokyo/status/2125920010535420305
 LOCATION:新宿ReNY
-URL:https://x.com/hiraeth_tokyo/status/2123378253633106009
+URL:https://x.com/hiraeth_tokyo/status/2125920010535420305
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜無銭ぷろじぇくと!! vol.121＠GOTANDA G6
@@ -582,26 +583,27 @@ LOCATION:GOTANDA G6
 URL:https://x.com/hiraeth_tokyo/status/2125560132301967834
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜FUTURE: SUPER LIVE（21色のスノードーム
- ☆カーニバル編）
-DTSTART;TZID=Asia/Tokyo:20261203T182000
-DTEND;TZID=Asia/Tokyo:20261203T194000
-DTSTAMP:20261120T230000Z
+SUMMARY:HIRAETH.Tokyo｜FUTURE: SUPER LIVE（22色のスノードーム☆
+ カーニバル編）
+DTSTART;TZID=Asia/Tokyo:20261203T180000
+DTEND;TZID=Asia/Tokyo:20261203T192000
+DTSTAMP:20261126T230000Z
 UID:hiraeth-site-20261203@hiraeth.tokyo
-DESCRIPTION:💗姫咲: 公式告知に名前なし（本文・画像と
- も）\n開場 13:50 / 開演 14:05（予定）\nHIRAETH.Tokyo出番 18:2
- 0-18:40 / 物販 18:50-19:40（B）\n料金: 前方 4\,000円 / 一般 2\
- ,500円（各D別）/ 当日+500円・予約のみ当日払い\n予約開
- 始 11/20 22:00 https://tiget.net/events/540363\n出演: Bunny La Crew / 
- UP DANCE Lily / ESTLINK☆ / Krays / 大宮I☆DOLL / HyperMelty / 可愛
- いって言わないと呪う！ / マイナーガール / ニコニコ
- ♡LOVERS / ニコニコ♡STARS / ニコニコ♡PRINCESS / ニコニコ
- ♡SODA / BABY BLOOM / F!ORE / pureran story / HIRAETH.Tokyo / オトメ
- ルキュール / いつだって青い春。 / ヴィランの掟 / ぱ
- ふちゃーじ / Re:17（順不同）\n出典: https://x.com/hiraeth_tok
- yo/status/2123722403960529195
+DESCRIPTION:💗姫咲: 公式告知に名前なし（11/26再告知の本
+ 文・画像とも）\n開場 13:30 / 開演 13:45（予定）\nHIRAETH.To
+ kyo出番 18:00-18:20（11/26公式「出演時間変更」・旧18:20-18:
+ 40） / 物販 18:30-19:20（B）\n料金: 前方 4\,000円 / 一般 2\,50
+ 0円（各D別）/ 当日+500円・予約のみ当日払い\n予約 https:
+ //tiget.net/events/540363\n出演: 全22組（ヴィランの掟 / ぱふ
+ ちゃーじ / Krays / オトメルキュール / いつだって青い春
+ 。 / Re:17 / HyperMelty / ニコニコ♡SODA / ニコニコ♡PRINCESS /
+  マイナーガール / 大宮I☆DOLL / UP DANCE Lily / F!ORE / HIRAETH.
+ Tokyo / BABY BLOOM / ニコニコ♡STARS / LAST PiECE / pureran story / 
+ 可愛いって言わないと呪う！ / ESTLINK☆ / ニコニコ♡LOVE
+ RS / Bunny La Crew）\n出典: https://x.com/hiraeth_tokyo/status/21259184
+ 28146094573
 LOCATION:大塚FUTURE:
-URL:https://x.com/hiraeth_tokyo/status/2123722403960529195
+URL:https://x.com/hiraeth_tokyo/status/2125918428146094573
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ＠新宿
@@ -749,18 +751,21 @@ LOCATION:BUZZ music LABO Shinjuku
 URL:https://x.com/hiraeth_tokyo/status/2122274615548690503
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:HIRAETH.Tokyo｜ライブ＠大塚
+SUMMARY:HIRAETH.Tokyo｜IDOL Key Stage mini Vol.4〜X'mas Special〜＠大
+ 塚FUTURE:
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
-DTSTAMP:20261021T231000Z
+DTSTAMP:20261126T230000Z
 UID:hiraeth-17797@hiraeth.tokyo
-DESCRIPTION:イベント: ライブ＠大塚\n種別: ライブ\n時刻
- は未発表のため終日予定で登録。\n出典: 公式サイト ht
- tps://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e5%a4%a7%e
- 5%a1%9a-5/\n確度: 公式（詳細未発表の予定枠）
-LOCATION:大塚（会場名未発表）
-URL:https://hiraeth.tokyo/event/%e3%83%a9%e3%82%a4%e3%83%96%ef%bc%a0%e5%a
- 4%a7%e5%a1%9a-5/
+DESCRIPTION:💗姫咲: 公式告知に名前なし（本文・画像とも
+ ）\n開場 9:45 / 開演 10:00\nHIRAETH.Tokyo出番は未発表（タイ
+ ムテーブル未公開のため終日予定で登録）\n料金: 前方
+ エリア 5\,000円 / 一般エリア 3\,000円 / 女性 500円（各1D別
+ ・当日各+500円・再入場可）\nチケット https://t-dv.com/idolk
+ eystagemini_4\n出演: 全16組\n出典: https://x.com/hiraeth_tokyo/statu
+ s/2125917278629970415
+LOCATION:大塚FUTURE:
+URL:https://x.com/hiraeth_tokyo/status/2125917278629970415
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜ライブ＠新宿
