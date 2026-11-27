@@ -8,3 +8,4 @@
 - バナーは公式発表と最新の確認日を先に出し、古い確認メモは折りたたむ（hime_overlay.py が自動で分ける）。
 - 各イベントの特典・チケット・食い違い注記は折りたたみ。開場・開演・出番・メンバーの出欠・こはくの重要情報は見える位置に残す。
 - 「今日」の印も JavaScript が日本時間で付けるので、日付クラスの付け忘れがあっても表示はずれない。
+- ホーム画面アイコン（apple-touch-icon.png / icons/ / favicon / manifest.json）は静的ファイル。index.html の <head> にある icon と manifest の link は消さない。hime_overlay.py は <!--HO--> 以外の head を触らない。
