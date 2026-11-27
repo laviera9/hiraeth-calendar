@@ -49,6 +49,12 @@ main{max-width:1080px;margin:0 auto;padding:0 12px 20px}
 .ic.s{opacity:.55}
 .tk{display:inline-block;font-size:10px;color:#2f7cc4;text-decoration:none;margin:0 0 4px 4px}
 .list{list-style:none;margin:0;padding:0}
+.cell.has-ev{cursor:pointer;-webkit-tap-highlight-color:rgba(224,69,123,.18)}
+.cell.has-ev:hover{box-shadow:inset 0 0 0 2px #f7a3c0}
+.cell.has-ev:focus-visible{outline:2px solid #e0457b;outline-offset:1px}
+.wd,.list li{scroll-margin-top:24px}
+.wd.jump-hl,.list li.jump-hl{box-shadow:0 0 0 3px #ff9cc8;background:#fff6fb;border-radius:12px;transition:box-shadow .5s,background .5s}
+.wd.today.jump-hl{background:#fff0e0;border-color:#ff9cc8}
 .month-list{margin-top:12px;font-size:13px;color:#6c5f7a}
 .month-list>summary{cursor:pointer;font-weight:bold;color:#e0457b;padding:6px 2px}
 .month-list .list{margin-top:6px}
@@ -95,6 +101,7 @@ footer{text-align:center;font-size:12px;color:#8a7a99;padding:6px 16px 28px;max-
   header h1{font-size:20px;line-height:1.35}
   header h1 .ttl{display:block}
   .cell{min-height:48px;padding:3px}
+  .cell.has-ev{min-height:56px}
   .grid .ev,.grid .tk{display:none !important}
   .cell.has-ev:not(.old)::after{content:attr(data-marks);display:block;text-align:center;color:#ef6f9b;font-size:11px;font-weight:bold;line-height:1.2;margin-top:2px}
   .cell.old::after{content:none}
@@ -512,6 +519,30 @@ footer{text-align:center;font-size:12px;color:#8a7a99;padding:6px 16px 28px;max-
     return { vis: uniq, hid: hid, doors: uniq.filter(function (x) { return /開場|開演/.test(x); }).join("｜"), att: uniq.filter(function (x) { return ATT_RE.test(x); }) };
   }
 
+  var jumpTimer = null;
+  function clearJumpHl() {
+    document.querySelectorAll(".jump-hl").forEach(function (el) { el.classList.remove("jump-hl"); });
+    if (jumpTimer) { clearTimeout(jumpTimer); jumpTimer = null; }
+  }
+  function jumpToDay(ymd) {
+    if (!ymd) return;
+    var inWeek = ymd >= cutoff && ymd <= weekUntil;
+    var target = inWeek ? document.getElementById("w" + ymd) : null;
+    if (!target) {
+      var li = document.getElementById("d" + ymd);
+      if (li) {
+        var det = li.closest("details.month-list");
+        if (det && !det.open) det.open = true;
+        target = li;
+      }
+    }
+    if (!target) return;
+    clearJumpHl();
+    target.classList.add("jump-hl");
+    target.scrollIntoView({ behavior: "smooth", block: "start" });
+    jumpTimer = setTimeout(clearJumpHl, 2400);
+  }
+
   // Annotate month cells and list items with data-date, mark today / past / old.
   document.querySelectorAll("section.month").forEach(function (sec) {
     var ym = monthYear(sec);
@@ -545,6 +576,20 @@ footer{text-align:center;font-size:12px;color:#8a7a99;padding:6px 16px 28px;max-
       if (evs.length && ymd >= cutoff) {
         cell.classList.add("has-ev");
         cell.setAttribute("data-marks", evs.length === 1 ? "♥" : evs.length + "件");
+        cell.setAttribute("role", "link");
+        cell.setAttribute("tabindex", "0");
+        cell.setAttribute("title", fmtMd(ymd) + "の詳細を見る");
+        cell.addEventListener("click", function (ev) {
+          if (ev.target.closest && ev.target.closest("a.ev, a.tk")) return;
+          ev.preventDefault();
+          jumpToDay(ymd);
+        });
+        cell.addEventListener("keydown", function (ev) {
+          if (ev.key === "Enter" || ev.key === " ") {
+            ev.preventDefault();
+            jumpToDay(ymd);
+          }
+        });
         visibleEvents += evs.length;
       }
     });
@@ -685,6 +730,8 @@ footer{text-align:center;font-size:12px;color:#8a7a99;padding:6px 16px 28px;max-
       var dayBox = el("div", { class: "wd" + (w === 0 ? " sun" : w === 6 ? " sat" : "") + (ymd === today ? " today" : "") }, [
         el("div", { class: "wd-h" }, headKids)
       ]);
+      dayBox.id = "w" + ymd;
+      dayBox.setAttribute("data-date", ymd);
       byDay[ymd].forEach(function (it) {
         var classes = "wcard";
         if (/\bstar\b/.test(it.cls)) classes += " star";
