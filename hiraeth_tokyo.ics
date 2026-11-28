@@ -508,17 +508,18 @@ URL:https://x.com/hiraeth_tokyo/status/2124303798571344016
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜TikTokリレー配信（全員配信）
-DTSTART;VALUE=DATE:20261128
-DTEND;VALUE=DATE:20261129
-DTSTAMP:20261114T230000Z
+DTSTART;TZID=Asia/Tokyo:20261128T160000
+DTEND;TZID=Asia/Tokyo:20261128T170000
+DTSTAMP:20261128T022507Z
 UID:hiraeth-relay-20261128@hiraeth.tokyo
 DESCRIPTION:💗姫咲: 7人全員配信（公式リレー配信表で「
  こはく」も7人の1人）\n11/29新体制お披露目の前日、全
- 員で配信\n配信: HIRAETH.Tokyo公式TikTok LIVE（時刻未発表の
- ため終日予定で登録）\n出典: https://x.com/hiraeth_tokyo/statu
- s/2121407772894072956
+ 員で配信\n配信: HIRAETH.Tokyo公式TikTok LIVE 16:00〜17:00（公
+ 式11/28発表）\n本人も引用で告知 https://x.com/KOHAKU_HIRAETH/s
+ tatus/2126496646649536854\n出典: https://x.com/hiraeth_tokyo/status/2126
+ 496298471977112
 LOCATION:HIRAETH.Tokyo公式TikTok LIVE
-URL:https://x.com/hiraeth_tokyo/status/2121407772894072956
+URL:https://x.com/hiraeth_tokyo/status/2126496298471977112
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:HIRAETH.Tokyo｜-TOKYO.HAJIMARI.FES- vol.8【HIRAETH.Tokyo新体制
